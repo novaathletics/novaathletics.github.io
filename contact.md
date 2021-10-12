@@ -1,10 +1,8 @@
 ---
 title: 聯絡我們
-
 feature_text: |
-aside: true
 feature_image: "https://picsum.photos/1300/400?image=989"
-# excerpt: ""
+
 ---
 
 - WhatsApp: 60661322
