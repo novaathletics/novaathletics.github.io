@@ -1,5 +1,5 @@
 ---
-title: 本會介紹
+title:
 
 feature_text: |
   ## 本會介紹
