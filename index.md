@@ -2,8 +2,8 @@
 title: 最新消息
 aside: true
 feature_text: |
-## Nova Athletics
-新星田徑會
+  ## Nova Athletics
+  ### 新星田徑會
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
