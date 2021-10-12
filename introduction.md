@@ -1,8 +1,8 @@
 ---
-title:
+title: 本會介紹
 
 feature_text: |
-  ## 本會介紹
+
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
