@@ -121,14 +121,22 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: 首頁
   url: /
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
+- title: 本會介紹
+  url: /introduction/
+- title: 教練介紹
+  url: /coaches/
+- title: 新星運動員介紹
+  url: /athletes/
+- title: 訓練課程
+  url: /training/
+- title: 本會比賽
+  url: /races/
+- title: Sportsoho專欄
+  url: /sportsohocolumn/
+- title: 聯絡我們
+  url: /contactus/
 
 navigation_footer:
 - title: Created by Nova Athletics
