@@ -6,6 +6,9 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
-2021 Feb
+2021 February
+
+!(/images/2021_02.jpeg)
 
 2021 June-Oct
+
