@@ -63,7 +63,6 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    aside: true
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
@@ -93,10 +92,9 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-aside: true
 lang: en-GB # Set the site language
 title: "Nova Athletics" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "novalogo.png" # Site logo, also used in jekyll-seo-tag
 description: "新星田徑會以發掘及培訓未來新星為目標，小至學界賽事、大至成爲香港隊員代表香港參加大型比賽。" # Site description and default description, also used in jekyll-seo-tag
 url: "https://novaathletics.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
