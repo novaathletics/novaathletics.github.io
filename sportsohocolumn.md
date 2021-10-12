@@ -10,5 +10,23 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ![](/images/2021_2.jpeg)
 
-2021 June-Oct
+2021 June
+
+![](/images/2021_6.jpg)
+
+2021 July
+
+![](/images/2021_7.jpg)
+
+2021 August
+
+![](/images/2021_8.jpg)
+
+2021 September
+
+![](/images/2021_9.jpg)
+
+2021 October
+
+![](/images/2021_10.jpg)
 
