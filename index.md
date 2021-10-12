@@ -1,6 +1,6 @@
 ---
 title: Nova Athletics
-
+aside: true
 feature_text: |
   ## Nova Athletics
   新星田徑會
