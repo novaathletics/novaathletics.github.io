@@ -131,6 +131,8 @@ navigation_header:
   url: /athletes/
 - title: 訓練課程
   url: /training/
+  title: fake
+  url: /fake/
 - title: 本會比賽
   url: /races/
 - title: Sportsoho專欄
