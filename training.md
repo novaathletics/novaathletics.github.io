@@ -3,7 +3,7 @@ title: 訓練課程
 
 feature_text: |
 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
 ### 幼兒會員訓練
