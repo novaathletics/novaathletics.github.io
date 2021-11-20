@@ -1,7 +1,7 @@
 ---
 title: 訓練課程
 
-feature_text: |
+feature_text: |## Nova Athletics ### 新星田徑會
 
 feature_image: "/images/banner1.jpg"
 # excerpt: ""
