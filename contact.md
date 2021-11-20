@@ -1,7 +1,9 @@
 ---
 title: 聯絡我們
 feature_text: |
-feature_image: "https://picsum.photos/1300/400?image=989"
+  ## Nova Athletics
+  ### 新星田徑會
+feature_image: "/images/banner1.jpg"
 
 ---
 
