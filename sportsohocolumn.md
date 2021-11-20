@@ -2,6 +2,8 @@
 title: Sportsoho專欄
 
 feature_text: |
+  ## Nova Athletics
+  ### 新星田徑會
 
 feature_image: "/images/banner1.jpg"
 # excerpt: ""
