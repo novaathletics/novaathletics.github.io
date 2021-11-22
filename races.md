@@ -29,7 +29,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 《Rilakkuma Relax Zone - 短距離走Fun Fun Run》
 
-![](/images/RK poster.pdf)
+![](/images/RKposter.pdf)
 
 日期：2022年1月16日 (星期日)
 
