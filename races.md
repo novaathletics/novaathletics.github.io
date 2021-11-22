@@ -10,6 +10,8 @@ feature_image: "/images/banner1.jpg"
 ---
 #### 新星兒童田徑錦標賽2021「聖誕站」
 
+###### [按此報名](https://zfrmz.com/A0wWlWYpwvbiupXJCIjh)
+
 ![](/images/2021聖誕兒童錦標賽.jpeg)
 
 日期：2021年12月27日 (星期一)
@@ -29,7 +31,9 @@ feature_image: "/images/banner1.jpg"
 
 #### 《Rilakkuma Relax Zone - 短距離走Fun Fun Run》
 
-![](/images/RKposter.pdf)
+###### [按此報名](https://docs.google.com/forms/d/e/1FAIpQLSekb1BIhLzpkZ5reRIW_wkXUjz67uAD9gmIMKJmGBS-UEdbdg/viewform?pli=1&pli=1)
+
+![](/images/RKposter.jpg)
 
 日期：2022年1月16日 (星期日)
 
@@ -48,3 +52,7 @@ feature_image: "/images/banner1.jpg"
 
 *報名者將獲得以 Rilakkuma 軽鬆 Zone 主題設計的選手包，完成賽事後每名參加者可獲得完成獎牌及完成證書。選手包內容︰T恤、毛巾、索繩袋、號碼布及限量版兔子造型匙扣公仔。*
 *是次活動不設名次，參加者之跑步時間會列於完賽證書（電子形式發放）上以供參考。活動場地為人造足球草場，不可穿着田徑釘鞋*
+
+#### 新星兒童田徑錦標賽2021「新春站」
+
+###### *Coming Soon*
