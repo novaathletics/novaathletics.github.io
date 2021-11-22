@@ -9,7 +9,7 @@ feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
 ##### 葉啟德
-![](/images/YKT.jpg)
+![](/images/YKT.png)
 -	新星運動發展有限公司主席及總教練
 -	香港田徑隊教練
 -	2018 香港業餘田徑總會傑出教練獎銀獎
