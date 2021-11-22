@@ -9,6 +9,7 @@ feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
 ##### 葉啟德
+![](/images/YKT.jpg)
 -	新星運動發展有限公司主席及總教練
 -	香港田徑隊教練
 -	2018 香港業餘田徑總會傑出教練獎銀獎
@@ -34,6 +35,7 @@ feature_image: "/images/banner1.jpg"
 -	中國香港體適能總會體適能證書
 
 ##### 陳佩琦
+![](/images/ChanPK.png)
 -	香港女子100米青年紀錄
 -	兩度代表香港參加全國運動會
 -	2018亞運香港女子100米、200米代表
