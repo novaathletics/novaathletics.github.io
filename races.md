@@ -62,7 +62,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 新星新春兒童田徑聯賽 2022
 
-![](/images/新星新春兒童田徑聯賽 2022.jpeg)
+![](/images/新星新春兒童田徑聯賽2022.jpeg)
 
 日期：2022年2月3日 (星期四)
 
