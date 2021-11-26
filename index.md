@@ -9,7 +9,7 @@ feature_image: "/images/banner1.jpg"
 
 ### 沙田學界
 
-#### [陳柏翹於男乙100米拋離對手勝出](https://drive.google.com/file/d/1YMheR5loAjQaXWFzcw5uuEgBzbf1P9QC/view?usp=sharing) 
+#### [陳柏翹於男乙100米勝出](https://drive.google.com/file/d/1YMheR5loAjQaXWFzcw5uuEgBzbf1P9QC/view?usp=sharing) 
 
 #### [Bosco於男乙200m以31”03 PB勝出](https://drive.google.com/file/d/1BrIfrZuCVbG_EmYVWTK_PSifCoOq3q4B/view?usp=sharing)
 
