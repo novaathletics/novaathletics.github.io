@@ -7,9 +7,9 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 ---
 
-#### 沙田會友陳柏翹 沙田學界男乙100米火炒對手
+### [沙田學界 陳柏翹於男乙100米火炒對手](https://drive.google.com/file/d/1YMheR5loAjQaXWFzcw5uuEgBzbf1P9QC/view?usp=sharing) 
 
-![](/Video/2021沙田學界男乙100m.mp4)
+### [沙田學界 Bosco於男乙200m以31”03 PB勝出](https://drive.google.com/file/d/1BrIfrZuCVbG_EmYVWTK_PSifCoOq3q4B/view?usp=sharing)
 
 #### 新星田徑會創會第一賽 - 新星聖誕兒童田徑錦標賽 2021
 
