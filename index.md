@@ -11,7 +11,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [陳柏翹 - 男乙100米勝出](https://drive.google.com/file/d/1YMheR5loAjQaXWFzcw5uuEgBzbf1P9QC/view?usp=sharing) 
 
-#### [Bosco - 男乙200m以31”03 PB勝出](https://drive.google.com/file/d/1BrIfrZuCVbG_EmYVWTK_PSifCoOq3q4B/view?usp=sharing)
+#### [Bosco - 男乙200米以31”03 PB勝出](https://drive.google.com/file/d/1BrIfrZuCVbG_EmYVWTK_PSifCoOq3q4B/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 
