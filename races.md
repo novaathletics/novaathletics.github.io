@@ -65,8 +65,6 @@ feature_image: "/images/banner1.jpg"
 
 ![](/images/新星新春兒童田徑聯賽2022.jpg)
 
-![](/images/新星新春兒童田徑聯賽2022_gift.jpg)
-
 日期：2022年2月3日 (星期四)
 
 時間：09:00-17:00
