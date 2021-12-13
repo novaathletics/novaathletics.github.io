@@ -71,9 +71,11 @@ feature_image: "/images/banner1.jpg"
 
 ### 新星田徑會創會第一賽 - 新星聖誕兒童田徑錦標賽 2021
 
-本會創會第一擊賽事現正接受報名！聖誕長假尾聲，一個專為幼兒而設的比賽，在京士柏YMCA 百年紀念中心舉行，全港首次在空曠又有上蓋的寛廣埸地舉行的田徑比賽，避免日曬雨淋及天氣突變。現場更有聖誕攤位遊戲，嬴取聖誕禮物；同時設有熱身區及教大家起跑。歡迎幼稚園至小三同學參加，嗚謝友好機構恩格斯兒童體育會及香港基督教青年會京士柏百年紀念中心 協辦。
+是次賽事的名額已滿，感謝支持！
 
-###### [按此報名 - 新星聖誕兒童田徑錦標賽 2021](https://zfrmz.com/A0wWlWYpwvbiupXJCIjh)
+線道表將於12月15日公佈，請核對名單，如有錯漏，請盡快WhatsApp [本會](https://api.whatsapp.com/send?phone=85260661322) 。
+
+如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
 
 ---------------------------------------------------------------------------------------
 
