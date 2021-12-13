@@ -73,7 +73,7 @@ feature_image: "/images/banner1.jpg"
 
 是次賽事的名額已滿，感謝支持！
 
-線道表將於12月15日公佈，請核對名單，如有錯漏，請盡快WhatsApp [本會](https://api.whatsapp.com/send?phone=85260661322) 。
+線道表將於12月15日公佈，請核對名單，如有錯漏，請盡快[WhatsApp本會](https://api.whatsapp.com/send?phone=85260661322) 。
 
 如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
 
