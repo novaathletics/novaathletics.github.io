@@ -13,6 +13,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [時間表](https://drive.google.com/file/d/10Ye_yejGWvubaGIJWglmMQx8HpRx-TvK/view?usp=sharing)
 
+#### [流程及注意事項](https://drive.google.com/file/d/1DfodLnnycOfqyjRU3x9iUhA0BeDe4_0O/view?usp=sharing)
 
 #### 參賽名單
 
