@@ -27,7 +27,7 @@ feature_image: "/images/banner1.jpg"
 
 女子 [2013](https://drive.google.com/file/d/11nPpSd7J6_bftp4t0j2m1VQeGov3L6Jx/view?usp=sharing) / [2014](https://drive.google.com/file/d/12Qw93_UEvgnCE9TZ18mTIzFC4gnQ1sEi/view?usp=sharing) / [2015](https://drive.google.com/file/d/12ZScTK8Jf5Gt6zaAAVDuSHfdJpB3tfKq/view?usp=sharing) / [2016](https://drive.google.com/file/d/12dWChQZCDqgUEymi3EZdfEsRQe67jjCq/view?usp=sharing) / [2017](https://drive.google.com/file/d/12k62cEyXeylJlIyR5y5yCqhn7BtPSCcV/view?usp=sharing) / [2018](https://drive.google.com/file/d/12j-BkdM5GLX--_enp-bHFkNEjMldFNBb/view?usp=sharing)
 
-線道表將於12月16日公佈，請核對名單，如有錯漏，請盡快[WhatsApp本會](https://api.whatsapp.com/send?phone=85260661322) 。
+###### 請核對線道名單，如有錯漏，請盡快[WhatsApp本會](https://api.whatsapp.com/send?phone=85260661322) 。
 
 如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
 
