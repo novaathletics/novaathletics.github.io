@@ -30,21 +30,21 @@ feature_image: "/images/banner1.jpg"
 
 #### 《Rilakkuma Relax Zone - 短距離走Fun Fun Run》
 
-###### [按此報名](https://docs.google.com/forms/d/e/1FAIpQLSekb1BIhLzpkZ5reRIW_wkXUjz67uAD9gmIMKJmGBS-UEdbdg/viewform?pli=1&pli=1)
+##### [按此報名](https://docs.google.com/forms/d/e/1FAIpQLSekb1BIhLzpkZ5reRIW_wkXUjz67uAD9gmIMKJmGBS-UEdbdg/viewform?pli=1&pli=1)
 
 ![](/images/RKposter.jpg)
 
-日期：2022年1月16日 (星期日)
+📍日期：2022年1月16日 (星期日)
 
-時間：09:00-17:00
+📍時間：09:00-17:00
 
-地點：將軍澳賽馬會香港足球總會足球訓練中心
+📍地點：將軍澳賽馬會香港足球總會足球訓練中心
 
-項目：20米、30米、60米、60米跨欄、100米
+📍項目：20米、30米、60米、60米跨欄、100米
 
-年齡組別：4-12（以出生年份計算）
+📍年齡組別：4-12（以出生年份計算）
 
-暫定起跑時間：
+📍暫定起跑時間：
 -    2017年、2018年組：10:30 - 11:30
 -    2014年、2015年、2016年組：11:00 - 13:00
 -    2010年、2011年、2012年、2013年組：13:00 - 15:00
@@ -53,25 +53,25 @@ feature_image: "/images/banner1.jpg"
 
 ---------------------------------------------------------------------------------------
 
-#### 新星新春兒童田徑聯賽 2022
+#### 🧧新星新春兒童田徑聯賽 2022🧧
 
-###### [按此報名](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)
+##### [按此報名](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)
 
 ![](/images/新星新春兒童田徑聯賽2022.jpeg)
 
-日期：2022年2月3日 (星期四)
+📍日期：2022年2月3日 (星期四)
 
-時間：09:00-17:00
+📍時間：09:00-17:00
 
-地點：香港基督教青年會京士柏百年紀念中心 (京士柏加士居道22號)
+📍地點：香港基督教青年會京士柏百年紀念中心 (京士柏加士居道22號)
 
-組別：男子及女子（2013、2014、2015、2016、2017及2018）*運動員不可越級報名*
+📍組別：男子及女子（2013、2014、2015、2016、2017及2018）*運動員不可越級報名*
 
-項目：20米、30米、20米跨欄、30米跨欄、30米來回跑(總距離60米)、投擲豆袋、立定跳高、立定跳遠
+📍項目：20米、30米、20米跨欄、30米跨欄、30米來回跑(總距離60米)、投擲豆袋、立定跳高、立定跳遠
 
-名額：300名 (額滿即止)
+📍名額：300名 (額滿即止)
 
-截止報名日期：2022年1月24日 (星期一)
+📍截止報名日期：2022年1月24日 (星期一)
 
 是次賽事與「新星聖誕兒童田徑錦標賽2021」為聯賽，兩場比賽之參加者可角逐聯賽個人全場總冠軍，詳情請參考報名表。
 
