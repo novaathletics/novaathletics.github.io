@@ -16,11 +16,11 @@ feature_image: "/images/banner1.jpg"
 
 #### 🌟[流程及注意事項](https://drive.google.com/file/d/1aGqTVPmkramrpsURECe67JlA0fhZt06s/view?usp=sharing)
 
-#### 🌟線道表 (最新公佈!!)
+#### 🌟線道表 (!!UPDATED!!)
 
-男子 [2013](https://drive.google.com/file/d/14A0Gx8JInruP7j1ujIuYqxzh3XhSlm9M/view?usp=sharing) / [2014](https://drive.google.com/file/d/1SY34Py_u2VzQeLaQMaYmrMcnl3ltG9j6/view?usp=sharing) / [2015](https://drive.google.com/file/d/1qbihhCzGguF-SkMuscxmhgb8CK78LH3D/view?usp=sharing) / [2016](https://drive.google.com/file/d/11vQKeusajNkmA49-B7xRGL6CUMlToyDL/view?usp=sharing) / [2017](https://drive.google.com/file/d/1WA9m-Lu-l99liBNGsViOJW2iW_hCr090/view?usp=sharing) / [2018](https://drive.google.com/file/d/1dnZUiJd5-e_t0PhLnOtWBRdadMPs2GWN/view?usp=sharing)
+男子 [2013](https://drive.google.com/file/d/1VBrTDCY1sTY_MU0kggIGurQsm0DmYyKr/view?usp=sharing) / [2014](https://drive.google.com/file/d/1L_t4b20OToMczpPAfvx4DKejj5fYZG2L/view?usp=sharing) / [2015](https://drive.google.com/file/d/16nr3VSLc1WRaWVg6ayCU3HUI53eAimPO/view?usp=sharing) / [2016](https://drive.google.com/file/d/1HbJ0Gw2zLwGOZQNmG6wCRDgH8yXvW9dA/view?usp=sharing) / [2017](https://drive.google.com/file/d/1K6zq4KKWllQGn2DZ0pKbY3QHD6if9iNG/view?usp=sharing) / [2018](https://drive.google.com/file/d/1ru8VXRpfl_CS9F6fsL5RlpElcbfyDyc5/view?usp=sharing)
 
-女子 [2013](https://drive.google.com/file/d/1cbJjsvqdp0ktihJGaEtDsqkR-kE5CFsK/view?usp=sharing) / [2014](https://drive.google.com/file/d/1pq4jzxoTR0710S3ImsODs3A2vmy7CQKS/view?usp=sharing) / [2015](https://drive.google.com/file/d/1SfVxMepQywtnh-NzKF8WlY7mLxmQ934f/view?usp=sharing) / [2016](https://drive.google.com/file/d/15vV1iQm87D7-qjHr6RL-SRwWibT8rXM-/view?usp=sharing) / [2017](https://drive.google.com/file/d/1V5qyUlHPxcVpurfxwsGr1poIIfUXGKa5/view?usp=sharing) / [2018](https://drive.google.com/file/d/1NLV-tHmt-_eD7Ruo4Rev72VUFFS9bxOS/view?usp=sharing)
+女子 [2013](https://drive.google.com/file/d/1b2k7yBae_c7p4U-OzeD-0EkjO5loTl9v/view?usp=sharing) / [2014](https://drive.google.com/file/d/1vlNXvYBP748O-x7jsW7XssaW-1lZX-bX/view?usp=sharing) / [2015](https://drive.google.com/file/d/1GPuGyVhRXrGP4yqbqO9Anu2vxYwwE4TD/view?usp=sharing) / [2016](https://drive.google.com/file/d/1Bsx7s4sNQLOo041SC7YxWF3lpOLFiPCL/view?usp=sharing) / [2017](https://drive.google.com/file/d/1Olhsv2zbP7pr_PBTrdBt0sqx1ZEI9mcA/view?usp=sharing) / [2018](https://drive.google.com/file/d/1WHi6xCo3eZYi3Y6m2I6aEBcGiIBuZfh-/view?usp=sharing)
 
 ###### 請核對線道名單，如有錯漏，請盡快[WhatsApp本會](https://api.whatsapp.com/send?phone=85260661322) 。
 
