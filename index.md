@@ -19,7 +19,7 @@ feature_image: "/images/banner1.jpg"
 
 🌟[流程及注意事項](https://drive.google.com/file/d/1aGqTVPmkramrpsURECe67JlA0fhZt06s/view?usp=sharing)
 
-🌟線道表 (!!UPDATED!!)
+🌟線道表 !!UPDATED!!
 
 男子 [2013](https://drive.google.com/file/d/1VBrTDCY1sTY_MU0kggIGurQsm0DmYyKr/view?usp=sharing) / [2014](https://drive.google.com/file/d/1L_t4b20OToMczpPAfvx4DKejj5fYZG2L/view?usp=sharing) / [2015](https://drive.google.com/file/d/16nr3VSLc1WRaWVg6ayCU3HUI53eAimPO/view?usp=sharing) / [2016](https://drive.google.com/file/d/1HbJ0Gw2zLwGOZQNmG6wCRDgH8yXvW9dA/view?usp=sharing) / [2017](https://drive.google.com/file/d/1K6zq4KKWllQGn2DZ0pKbY3QHD6if9iNG/view?usp=sharing) / [2018](https://drive.google.com/file/d/1ru8VXRpfl_CS9F6fsL5RlpElcbfyDyc5/view?usp=sharing)
 
