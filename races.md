@@ -10,15 +10,9 @@ feature_image: "/images/banner1.jpg"
 ---
 ### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
 
-🌟日期：2021年12月27日 (星期一)
+🌟成績公佈
 
-🌟地點：香港基督教青年會京士柏百年紀念中心 (京士柏加士居道22號)
-
-🌟[時間表](https://drive.google.com/file/d/10Ye_yejGWvubaGIJWglmMQx8HpRx-TvK/view?usp=sharing)
-
-🌟[流程及注意事項](https://drive.google.com/file/d/1aGqTVPmkramrpsURECe67JlA0fhZt06s/view?usp=sharing)
-
-🌟[注意事項增加](https://drive.google.com/file/d/1NAAcTUQpp_VmmslEJG5qu3baXrmBDpb4/view?usp=sharing)
+男子&女子 [2013](https://drive.google.com/drive/folders/1gI9cOnKg7ERy20iUY0lwd9gnsm6Yotbs?usp=sharing) / [2014](https://drive.google.com/drive/folders/15slC5KYxs6pwO91-GZyI5hCnk7mBRyhY?usp=sharing) / [2015](https://drive.google.com/drive/folders/1HDa1_iMyMiagRgVR23SS1RqFH8dWvrbF?usp=sharing) / [2016](https://drive.google.com/drive/folders/1Bz9QXBhLHQ9CCcLaC52qov2BbMxyVODw?usp=sharing) / [2017](https://drive.google.com/drive/folders/1YP-WhwBDA8nGfCBJbCrD6RnVDpVhV896?usp=sharing) / [2018](https://drive.google.com/drive/folders/1f-RjfhBZb8EXJA4W626sR_gyHFppk7-o?usp=sharing)
 
 🌟線道表 !!UPDATED!!
 
