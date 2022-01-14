@@ -9,6 +9,22 @@ feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
 
+### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
+
+‼️本會已於上週寄出有關「新星聖誕兒童田徑錦標賽 2021」比賽的所有證書和獎項。若下星期仍未能收到郵件，或郵件有錯漏，請WhatsApp本會[60661322](https://api.whatsapp.com/send?phone=85260661322)‼️
+
+有靚相睇了😎嗚謝Sportsoho派出專業攝影團隊為大家在不同角度影相📸👏🏼
+
+🌟[相片集](https://www.sportsoho.com/pg/photos/matchalbum/8705355)
+
+🌟[成績公佈](https://drive.google.com/drive/folders/1cdPK-Qlpb3MMdX5LTcDJoD3xeiREXaZj?usp=sharing)
+
+男子&女子 [全場總冠軍](https://drive.google.com/file/d/1VJnbVtAS89gOdVjOsDhUu81I0tyqyBHj/view?usp=sharing)
+
+如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
+
+---------------------------------------------------------------------------------------
+
 ### 🧧新星新春兒童田徑聯賽 2022🧧
 
 ###### 根據最新的防疫規例，政府轄下的體育處所即將由本周五1月7日 00:00起關閉至1月20日；而本會的「新春兒童田徑聯賽 2022」舉行日期為2月3日，初步未受影響。而比賽場地為YMCA所擁有，本會現正與場地聯絡及密切留意政府兩週後之安排，有關是次比賽的最新消息會在商榷後公佈。
@@ -34,20 +50,6 @@ feature_image: "/images/banner1.jpg"
 是次賽事與「新星聖誕兒童田徑錦標賽2021」為聯賽，兩場比賽之參加者可角逐聯賽個人全場總冠軍，詳情請參考報名表。
 
 是次賽事將有「新春行運大抽獎」，每位參賽者均可抽取「Rilakkuma鬆弛熊」新春禮物一份，人人有份!承蒙信興集團、田總副會長蒙德揚先生友情贊助「新春攤位遊戲」及「總冠軍」的小禮物，每人可玩一次贏取獎品；蒙博士一向支持田徑青少年發展，經常贊助運動員往海外練習，包括一百米及四百米香港青年紀錄陳佩琦、何鍵靈多次往日本集訓，在此嗚謝。
-
----------------------------------------------------------------------------------------
-
-### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
-
-有靚相睇了😎嗚謝Sportsoho派出專業攝影團隊為大家在不同角度影相📸👏🏼
-
-🌟[相片集](https://www.sportsoho.com/pg/photos/matchalbum/8705355)
-
-🌟[成績公佈](https://drive.google.com/drive/folders/1cdPK-Qlpb3MMdX5LTcDJoD3xeiREXaZj?usp=sharing)
-
-男子&女子 [全場總冠軍](https://drive.google.com/file/d/1VJnbVtAS89gOdVjOsDhUu81I0tyqyBHj/view?usp=sharing)
-
-如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
 
 ---------------------------------------------------------------------------------------
 
