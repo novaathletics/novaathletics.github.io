@@ -7,17 +7,9 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 ---
 
-### 聯賽 - 🧧新星新春兒童田徑聯賽 2022🧧
-
-###### 根據最新的防疫規例，政府轄下的體育處所即將由本周五1月7日 00:00起關閉至1月20日；而本會的「新春兒童田徑聯賽 2022」舉行日期為2月3日，初步未受影響。而比賽場地為YMCA所擁有，本會現正與場地聯絡及密切留意政府兩週後之安排，有關是次比賽的最新消息會在商榷後公佈。
-
-大年初三開年跑!!! 繼第一站「新星聖誕兒童田徑錦標賽」後，想在新的一年有新的開始，快報名參加新春佳節第二站賽事。兩站比賽最高分三項加起來定出香港首次的「室內田徑賽比賽總冠軍！」  第二站比賽將繼續在YMCA百年紀念中心的運動館內舉行，場地優秀，不受風雨影響，而且家長更可近距離觀看比賽，氣氛跟田徑場更親近。為推動本港田徑青訓，此賽事承蒙信興集團、田總副會長蒙德揚先生友情贊助「新春攤位遊戲」及總冠軍的小禮物，蒙博士一向支持田徑青少年發展，多位當年新星包括一百米及四百米香港青年紀錄陳佩琦、何鍵靈經常往日本集訓，在此答謝， 大家快啲報名參加啦！
-
-#### [按此報名 - 新星新春兒童田徑聯賽 2022](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)
-
----------------------------------------------------------------------------------------
-
 ### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
+
+‼️本會已於上週寄出有關「新星聖誕兒童田徑錦標賽 2021」比賽的所有證書和獎項。若下星期仍未能收到郵件，或郵件有錯漏，請WhatsApp本會[60661322](https://api.whatsapp.com/send?phone=85260661322)‼️
 
 🌟[相片集](https://www.sportsoho.com/pg/photos/matchalbum/8705355)
 
@@ -30,6 +22,16 @@ feature_image: "/images/banner1.jpg"
 男子&女子 [2013](https://drive.google.com/drive/folders/1gI9cOnKg7ERy20iUY0lwd9gnsm6Yotbs?usp=sharing) / [2014](https://drive.google.com/drive/folders/15slC5KYxs6pwO91-GZyI5hCnk7mBRyhY?usp=sharing) / [2015](https://drive.google.com/drive/folders/1HDa1_iMyMiagRgVR23SS1RqFH8dWvrbF?usp=sharing) / [2016](https://drive.google.com/drive/folders/1Bz9QXBhLHQ9CCcLaC52qov2BbMxyVODw?usp=sharing) / [2017](https://drive.google.com/drive/folders/1YP-WhwBDA8nGfCBJbCrD6RnVDpVhV896?usp=sharing) / [2018](https://drive.google.com/drive/folders/1f-RjfhBZb8EXJA4W626sR_gyHFppk7-o?usp=sharing)
 
 如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
+
+---------------------------------------------------------------------------------------
+
+### 聯賽 - 🧧新星新春兒童田徑聯賽 2022🧧
+
+###### 根據最新的防疫規例，政府轄下的體育處所即將由本周五1月7日 00:00起關閉至1月20日；而本會的「新春兒童田徑聯賽 2022」舉行日期為2月3日，初步未受影響。而比賽場地為YMCA所擁有，本會現正與場地聯絡及密切留意政府兩週後之安排，有關是次比賽的最新消息會在商榷後公佈。
+
+大年初三開年跑!!! 繼第一站「新星聖誕兒童田徑錦標賽」後，想在新的一年有新的開始，快報名參加新春佳節第二站賽事。兩站比賽最高分三項加起來定出香港首次的「室內田徑賽比賽總冠軍！」  第二站比賽將繼續在YMCA百年紀念中心的運動館內舉行，場地優秀，不受風雨影響，而且家長更可近距離觀看比賽，氣氛跟田徑場更親近。為推動本港田徑青訓，此賽事承蒙信興集團、田總副會長蒙德揚先生友情贊助「新春攤位遊戲」及總冠軍的小禮物，蒙博士一向支持田徑青少年發展，多位當年新星包括一百米及四百米香港青年紀錄陳佩琦、何鍵靈經常往日本集訓，在此答謝， 大家快啲報名參加啦！
+
+#### [按此報名 - 新星新春兒童田徑聯賽 2022](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)
 
 ---------------------------------------------------------------------------------------
 
