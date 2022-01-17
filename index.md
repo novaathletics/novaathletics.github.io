@@ -9,7 +9,7 @@ feature_image: "/images/banner1.jpg"
 
 ### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
 
-‼️本會已於上週寄出有關「新星聖誕兒童田徑錦標賽 2021」比賽的所有證書和獎項。若下星期仍未能收到郵件，或郵件有錯漏，請WhatsApp本會[60661322](https://api.whatsapp.com/send?phone=85260661322)‼️
+‼️本會已於上週寄出有關「新星聖誕兒童田徑錦標賽 2021」比賽的所有證書和獎項。若下星期仍未能收到郵件，或郵件有錯漏，請[WhatsApp本會60661322](https://api.whatsapp.com/send?phone=85260661322)‼️
 
 🌟[相片集](https://www.sportsoho.com/pg/photos/matchalbum/8705355)
 
