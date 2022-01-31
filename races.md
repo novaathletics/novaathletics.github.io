@@ -41,8 +41,6 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)
 
-![](/images/新星新春兒童田徑聯賽2022.jpeg)
-
 📌日期：2022年2月26日 (星期六)
 
 📌時間：13:00-18:00
