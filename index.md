@@ -29,19 +29,15 @@ feature_image: "/images/banner1.jpg"
 
 ---------------------------------------------------------------------------------------
 
-### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
+### 教練陳佩琦👩🏽
 
-🌟[相片集](https://www.sportsoho.com/pg/photos/matchalbum/8705355)
+#### [星島日報報導📰 - 沙田賜我力量](https://drive.google.com/drive/folders/1ngK58f050uDZj7RgVmokHQQTiDBm-nfP?usp=sharing)
 
-有靚相睇了😎嗚謝Sportsoho派出專業攝影團隊為大家在不同角度影相📸👏🏼
+#### [信報報導📰 - 短跑美少女「追」夢誓戰亞運](https://drive.google.com/file/d/1NgN3GuMWmGJVSenFJypOgL8vqFuxYApv/view?usp=sharing)
 
-🌟[成績公佈](https://drive.google.com/drive/folders/1cdPK-Qlpb3MMdX5LTcDJoD3xeiREXaZj?usp=sharing)
+#### [東方日報報導📰 - 女飛人跨越傷患邊讀邊教 陳佩琦振作放膽再衝](https://orientaldaily.on.cc/content/%E9%AB%94%E8%82%B2/odn-20211126-1126_00286_041/%E5%A5%B3%E9%A3%9B%E4%BA%BA%E8%B7%A8%E8%B6%8A%E5%82%B7%E6%82%A3%E9%82%8A%E8%AE%80%E9%82%8A%E6%95%99-%E9%99%B3%E4%BD%A9%E7%90%A6%E6%8C%AF%E4%BD%9C%E6%94%BE%E8%86%BD%E5%86%8D%E8%A1%9D?fbclid=IwAR3tCLKgaWevelE1CkNDt35_h4jvjbahZq-6KdIOuqoGGtac--nebOFVOoU)
 
-男子&女子 [全場總冠軍](https://drive.google.com/file/d/1VJnbVtAS89gOdVjOsDhUu81I0tyqyBHj/view?usp=sharing)
-
-男子&女子 [2013](https://drive.google.com/drive/folders/1gI9cOnKg7ERy20iUY0lwd9gnsm6Yotbs?usp=sharing) / [2014](https://drive.google.com/drive/folders/15slC5KYxs6pwO91-GZyI5hCnk7mBRyhY?usp=sharing) / [2015](https://drive.google.com/drive/folders/1HDa1_iMyMiagRgVR23SS1RqFH8dWvrbF?usp=sharing) / [2016](https://drive.google.com/drive/folders/1Bz9QXBhLHQ9CCcLaC52qov2BbMxyVODw?usp=sharing) / [2017](https://drive.google.com/drive/folders/1YP-WhwBDA8nGfCBJbCrD6RnVDpVhV896?usp=sharing) / [2018](https://drive.google.com/drive/folders/1f-RjfhBZb8EXJA4W626sR_gyHFppk7-o?usp=sharing)
-
-如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
+#### [東網報導📰 - 推廣開心運動 從社區「起步」](https://hk.on.cc/onad/bkn/cnt/ad/20211115/ad-20211115150906775-1115_21011_001.html)
 
 ---------------------------------------------------------------------------------------
 
@@ -98,9 +94,3 @@ feature_image: "/images/banner1.jpg"
 #### [Bosco - 男乙200米以31”03 PB勝出](https://drive.google.com/file/d/1BrIfrZuCVbG_EmYVWTK_PSifCoOq3q4B/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------
-
-### 教練陳佩琦👩🏽
-
-#### [東方日報報導📰 - 女飛人跨越傷患邊讀邊教 陳佩琦振作放膽再衝](https://orientaldaily.on.cc/content/%E9%AB%94%E8%82%B2/odn-20211126-1126_00286_041/%E5%A5%B3%E9%A3%9B%E4%BA%BA%E8%B7%A8%E8%B6%8A%E5%82%B7%E6%82%A3%E9%82%8A%E8%AE%80%E9%82%8A%E6%95%99-%E9%99%B3%E4%BD%A9%E7%90%A6%E6%8C%AF%E4%BD%9C%E6%94%BE%E8%86%BD%E5%86%8D%E8%A1%9D?fbclid=IwAR3tCLKgaWevelE1CkNDt35_h4jvjbahZq-6KdIOuqoGGtac--nebOFVOoU)
-
-#### [東網報導📰 - 推廣開心運動 從社區「起步」](https://hk.on.cc/onad/bkn/cnt/ad/20211115/ad-20211115150906775-1115_21011_001.html)
