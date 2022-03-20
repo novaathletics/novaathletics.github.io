@@ -18,10 +18,6 @@ feature_image: "/images/banner1.jpg"
 
 ##### 2022 January
 
-![](/images/2022_2.jpeg)
-
-##### 2022 January
-
 ![](/images/2022_1.jpeg)
 ![](/images/2022_1_1.jpeg)
 ![](/images/2022_1_2.jpeg)
