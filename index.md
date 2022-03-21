@@ -6,7 +6,13 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 「新星春季會員大招募」正式開始了！
+大家已經很久沒有訓練可能已躍躍欲試，本會現提早招收新會員，訓練在全港各區也有，除了學習正確技術、速度外，亦會教學員100、200、400或中距離的比賽節奏，為即將開始的賽季作準備，大家快點報名參加啦🌝🤟🏻
 
+[我想參加課程!](https://docs.google.com/forms/d/e/1FAIpQLScXZvev1WfGzgGRg6c0O_HwiLUTxomhsZbSMn7ubRmbv1dFzw/viewform?usp=sf_link)
+![](/images/Regular.png)
+
+---------------------------------------------------------------------------------------
 
 ### 聯賽 - 🧧新星新春兒童田徑聯賽 2022🧧
 
