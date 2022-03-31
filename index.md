@@ -12,11 +12,11 @@ feature_image: "/images/banner1.jpg"
 
 本會幾位新星及精英停場沒停練，仍在不同場所刻苦訓練，更能有所突破做出訓練PB 。其中鄭芷殷及鬼仔陳柏翹昨天在小西灣順風之下，分別做出12”7及13”2 PB [見片](https://drive.google.com/file/d/1KuS08MDvaa1U2265XpmwvTVvP5T-l15o/view?usp=sharing)。
 
-訓練場地/時間
+#### 訓練場地/時間
 
 ![](/images/復活假期小組特訓班.png)
 
-[我想參加特訓!](https://docs.google.com/forms/d/e/1FAIpQLSd3NNys5JnQvptEgH4ylZHnVkZq9J9kO5yxJrwwAPLZrI-JsA/viewform?usp=sf_link)
+#### [我想參加特訓!](https://docs.google.com/forms/d/e/1FAIpQLSd3NNys5JnQvptEgH4ylZHnVkZq9J9kO5yxJrwwAPLZrI-JsA/viewform?usp=sf_link)
 
 ---------------------------------------------------------------------------------------
 
