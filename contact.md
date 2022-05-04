@@ -7,8 +7,7 @@ feature_image: "/images/banner1.jpg"
 
 ---
 
-###### 48小時內回覆 (星期六/日及公眾假期除外)
-- WhatsApp: [60661322](https://api.whatsapp.com/send?phone=85260661322)
+- WhatsApp: [60661322](https://api.whatsapp.com/send?phone=85260661322) (只限whatsapp,不接聽電話)
 - Facebook: [新星田徑會Nova Athletics Club](https://facebook.com/新星田徑會Nova-Athletics-Club-105744665177266)
 - 電郵: <novasports852@gmail.com>
 - 郵寄: 火炭村74號地下
