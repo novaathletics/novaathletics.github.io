@@ -35,6 +35,4 @@ feature_image: "/images/banner1.jpg"
 
 男子&女子 [2013](https://drive.google.com/drive/folders/1gI9cOnKg7ERy20iUY0lwd9gnsm6Yotbs?usp=sharing) / [2014](https://drive.google.com/drive/folders/15slC5KYxs6pwO91-GZyI5hCnk7mBRyhY?usp=sharing) / [2015](https://drive.google.com/drive/folders/1HDa1_iMyMiagRgVR23SS1RqFH8dWvrbF?usp=sharing) / [2016](https://drive.google.com/drive/folders/1Bz9QXBhLHQ9CCcLaC52qov2BbMxyVODw?usp=sharing) / [2017](https://drive.google.com/drive/folders/1YP-WhwBDA8nGfCBJbCrD6RnVDpVhV896?usp=sharing) / [2018](https://drive.google.com/drive/folders/1f-RjfhBZb8EXJA4W626sR_gyHFppk7-o?usp=sharing)
 
-如欲報名參加賽事，可參與[「新星新春兒童田徑聯賽 2022」](https://forms.zohopublic.com/hknovasports852/form/03022022NovaChineseNewYearChildrenAthleticsChampio/formperma/Zm-lD4HlH0xcfklGpQPOaugiM23l2cmB9ImNpdR1290)。
-
 ---------------------------------------------------------------------------------------
