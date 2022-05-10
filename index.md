@@ -20,6 +20,8 @@ feature_image: "/images/banner1.jpg"
 
 組別：男子及女子（2015、2016、2017及2018）運動員不可越級報名
 
+![](/images/abc.mp4)
+
 #### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
 
 ---------------------------------------------------------------------------------------
