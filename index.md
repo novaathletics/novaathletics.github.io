@@ -6,6 +6,23 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 新星幼兒室内田徑錦標賽 2022
+
+香港少有的室內幼兒田徑賽，可以近距離打氣，比賽氣氛刺熱。給小朋友增加比賽經驗及有目標訓練，了解子女進度，為投考小學作準備。😎👏
+
+協辦機構:香港基督教青年會京士柏百周年紀念中心
+
+比賽日期: 2022年7月24日（星期日）
+
+比賽時間：1:30pm-5:00pm
+
+比賽地點：香港基督教青年會京士柏百周年紀念中心
+
+組別：男子及女子（2015、2016、2017及2018）運動員不可越級報名
+
+#### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
+
+---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️
 
 比賽了！😎 大家休戰近半年，相信各位小朋友很期待測試自己實力及進度。
