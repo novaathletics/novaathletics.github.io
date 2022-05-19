@@ -8,13 +8,6 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
-### 新星夏日兒童田徑錦標賽 2022☀️
-
-感謝各位支持！
-
-「新星夏日兒童田徑錦標賽2022」名額已滿，多謝支持！時間表及線道表將容後公布，敬請密切留意。
-
----------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
 
 香港少有的室內幼兒田徑賽，可以近距離打氣，比賽氣氛刺熱。給小朋友增加比賽經驗及有目標訓練，了解子女進度，為投考小學作準備。😎👏
@@ -29,9 +22,16 @@ feature_image: "/images/banner1.jpg"
 
 組別：男子及女子（2015、2016、2017及2018）運動員不可越級報名
 
-#### [按此觀看新星聖誕兒童田徑錦標賽2021場地影片](https://drive.google.com/file/d/1L8YzEq3zM8Xs1ff7A_SMuAPYEGimcjxU/view?usp=sharing)
+###### [按此觀看新星聖誕兒童田徑錦標賽2021場地影片](https://drive.google.com/file/d/1L8YzEq3zM8Xs1ff7A_SMuAPYEGimcjxU/view?usp=sharing)
 
 #### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
+
+---------------------------------------------------------------------------------------
+### 新星夏日兒童田徑錦標賽 2022☀️
+
+感謝各位支持！
+
+「新星夏日兒童田徑錦標賽2022」名額已滿，多謝支持！時間表及線道表將容後公布，敬請密切留意。
 
 ---------------------------------------------------------------------------------------
 ### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
