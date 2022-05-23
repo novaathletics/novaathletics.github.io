@@ -25,6 +25,27 @@ feature_image: "/images/banner1.jpg"
 #### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
 
 ---------------------------------------------------------------------------------------
+### 沙田慶回歸兒童田徑錦標賽 2022 
+
+暑假將至，賽季開始，難得的電子計時比賽。是次賽事由沙田體育會主辦、本會協辦及寶礦力水特電解質水贊助，歡迎2008-2018年青少年及兒童參加。
+
+沙體會以推動香港田徑及發掘人材為目的，報名費以每項計算，不用被迫貴價套餐，由於名額只有700名，報名從速。
+
+比賽日期: 2022年7月1日（星期五）
+
+比賽時間：08:00-17:00 
+
+比賽地點：馬鞍山運動場
+
+組別：2008-2018男子及女子運動員（不可越級報名）
+
+名額：700名，額滿即止
+
+截止報名日期：2022年6月15日或額滿即止
+
+#### [按此報名 - 沙田慶回歸兒童田徑錦標賽 2022 ](https://forms.zohopublic.com/hknovasports852/form/20221/formperma/J8OUeC-pMmAW4Mf4Pcs6UI7rzvdz7oxa4vFDr3IPqhQ?fbclid=IwAR0cztvxJ7W-aIi-PAXn5KcSEAh8QaiwoZos6etkahG508tn5ZGncI-DTXY)
+
+---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️
 
 感謝各位支持！
