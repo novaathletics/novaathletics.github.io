@@ -6,7 +6,16 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 新星夏日兒童田徑錦標賽 2022☀️
+### 沙田慶回歸兒童田徑錦標賽 2022 (7月1日 馬鞍山運動場)
+
+參賽名單 - [女子組](https://drive.google.com/file/d/1yijWORavp-PzVljYB3JOcIOPc3p6Mkct/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1NrfZDxek-AimwBghWYVz0iKsO9LVXhi9/view?usp=sharing]
+
+「沙田慶回歸兒童田徑錦標賽 2022」的參加者請確認項目，如果有錯誤或沒有名字的，請於6月21日23:59前 [WhatsApp 聯絡本會](https://api.whatsapp.com/send?phone=85260661322)更改。
+
+時間表及線道表將於6月23日公佈。
+
+---------------------------------------------------------------------------------------
+### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 烏溪沙YMCA)
 
 參賽名單 - [女子組](https://drive.google.com/file/d/1RQZeVFXVlzNv9_EJDdZ5nqxCPANssnrI/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1EAY7qJ5USLg_tijuqt2pSFoFBjmSMw1M/view?usp=sharing)
 
@@ -32,13 +41,6 @@ feature_image: "/images/banner1.jpg"
 ###### [按此觀看新星聖誕兒童田徑錦標賽2021場地影片](https://drive.google.com/file/d/1L8YzEq3zM8Xs1ff7A_SMuAPYEGimcjxU/view?usp=sharing)
 
 #### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
-
----------------------------------------------------------------------------------------
-### 沙田慶回歸兒童田徑錦標賽 2022 
-
-沙田慶回歸兒童田徑錦標賽 2022 因額滿現已截止報名🙇🏻‍♀️ 歡迎參與我們接下來的比賽，謝謝👏🏻💫
-
-比賽前約一星期，將於本會及沙田體育會網頁刊登比賽名單及比賽時間表，請於賽前登上網頁瀏覽。
 
 ---------------------------------------------------------------------------------------
 ### 新星暑假兒童及幼兒田徑培訓計劃 2022
