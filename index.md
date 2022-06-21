@@ -19,8 +19,6 @@ feature_image: "/images/banner1.jpg"
 ---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 烏溪沙YMCA)
 
-參賽名單 - [女子組](https://drive.google.com/file/d/1RQZeVFXVlzNv9_EJDdZ5nqxCPANssnrI/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1EAY7qJ5USLg_tijuqt2pSFoFBjmSMw1M/view?usp=sharing)
-
 [時間表](https://drive.google.com/file/d/1gEoa-azTvUq08-GcguxAKFR8J1VRgC4s/view?usp=sharing)
 
 線道表 - [女子組](https://drive.google.com/file/d/15bFYVwqZio9XNzmeRjv_oN3ijq0oEmKS/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1ANOxHrJuIUaHZxocagPpMo5BbXDluwMr/view?usp=sharing)
