@@ -12,7 +12,7 @@ feature_image: "/images/banner1.jpg"
 
 參賽名單 - [女子組](https://drive.google.com/file/d/1yijWORavp-PzVljYB3JOcIOPc3p6Mkct/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1NrfZDxek-AimwBghWYVz0iKsO9LVXhi9/view?usp=sharing)
 
-[時間表](https://drive.google.com/file/d/1qM8WW3sT2sHp4wwciquijh1PO-tqNh18/view?usp=sharing)
+[時間表](https://drive.google.com/file/d/1L8KfVKyGelsmuqhuP-L43sY03_q_8gHc/view?usp=sharing)
 
 「沙田慶回歸兒童田徑錦標賽 2022」的參加者請確認項目，如果有錯誤或沒有名字的，請於6月21日23:59前 [WhatsApp 聯絡本會](https://api.whatsapp.com/send?phone=85260661322)更改。
 
