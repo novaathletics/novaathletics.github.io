@@ -25,8 +25,6 @@ feature_image: "/images/banner1.jpg"
 
 「新星夏日兒童田徑錦標賽」的參加者請確認項目，如果有錯誤或沒有名字的，請於6月14日23:59前 [WhatsApp 聯絡本會](https://api.whatsapp.com/send?phone=85260661322)更改。
 
-時間表及線道表將於6月20日前公佈。
-
 ---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
 
@@ -65,7 +63,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [我想參加恆常班/精英班!](https://docs.google.com/forms/d/e/1FAIpQLScXZvev1WfGzgGRg6c0O_HwiLUTxomhsZbSMn7ubRmbv1dFzw/viewform?usp=sf_link)
 
-![](/images/Regular_Web.png)
+![](/images/Regular.png)
 
 ![](/images/Elite_Web.png)
 
