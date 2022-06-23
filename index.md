@@ -12,9 +12,7 @@ feature_image: "/images/banner1.jpg"
 
 [時間表](https://drive.google.com/file/d/1CDJdf-gearWSimrk-EceNrK7A75gzPiv/view?usp=sharing) (last update: 23 JUN 2022)
 
-「沙田慶回歸兒童田徑錦標賽 2022」的參加者請確認項目，如果有錯誤或沒有名字的，請於6月21日23:59前 [WhatsApp 聯絡本會](https://api.whatsapp.com/send?phone=85260661322)更改。
-
-時間表及線道表將於6月23日公佈。
+如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 烏溪沙YMCA)
@@ -22,6 +20,8 @@ feature_image: "/images/banner1.jpg"
 [時間表](https://drive.google.com/file/d/1gEoa-azTvUq08-GcguxAKFR8J1VRgC4s/view?usp=sharing)
 
 線道表 - [女子組](https://drive.google.com/file/d/15bFYVwqZio9XNzmeRjv_oN3ijq0oEmKS/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1ANOxHrJuIUaHZxocagPpMo5BbXDluwMr/view?usp=sharing)
+
+如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
