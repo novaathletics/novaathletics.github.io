@@ -19,7 +19,7 @@ feature_image: "/images/banner1.jpg"
 時間表及線道表將於6月23日公佈。
 
 ---------------------------------------------------------------------------------------
-### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 烏溪沙YMCA)
+### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 YMCA烏溪沙青年新村)
 
 [時間表](https://drive.google.com/file/d/1gEoa-azTvUq08-GcguxAKFR8J1VRgC4s/view?usp=sharing)
 
