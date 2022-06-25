@@ -8,6 +8,10 @@ feature_image: "/images/banner1.jpg"
 ---
 ### 沙田慶回歸兒童田徑錦標賽 2022 (7月1日 馬鞍山運動場)
 
+比賽日期: 2022年7月1日（星期五）
+
+比賽地點：馬鞍山運動場
+
 [時間表](https://drive.google.com/file/d/1CDJdf-gearWSimrk-EceNrK7A75gzPiv/view?usp=sharing) (last update: 23 JUN 2022)
 
 線道表 - [女子組](https://drive.google.com/file/d/1Mgum_YxuRnGKW6yPweJ__JZVj_sF5sEM/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1fPNJGtf4vbn754WGiMkVhj5EGy5PjRxu/view?usp=sharing) (last update: 23 JUN 2022)
@@ -16,6 +20,10 @@ feature_image: "/images/banner1.jpg"
 
 ---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️ (7月3日 烏溪沙YMCA)
+
+比賽日期: 2022年7月3日（星期日）
+
+比賽地點：YMCA烏溪沙青年新村
 
 [時間表](https://drive.google.com/file/d/1gEoa-azTvUq08-GcguxAKFR8J1VRgC4s/view?usp=sharing)
 
