@@ -12,9 +12,11 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月1日 馬鞍山運動場
 
-[時間表](https://drive.google.com/file/d/1tf5AIillpgUi0JjtQU-VM_IpOjOLYcIf/view?usp=sharing) (last update: 27 JUN 2022)
+[時間表](https://drive.google.com/file/d/1hkX1kZ2DSY5w5gSt4zusZeTEo4qJb0P1/view?usp=sharing) (last update: 28 JUN 2022)
 
-線道表 - [女子組](https://drive.google.com/file/d/1g25xM6fq4jQ7nqJ3Bb14Z8_lleoSdNPj/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1VuxQDKH23mL-M6qsmEsb-xsMGet61s-A/view?usp=sharing) (last update: 27 JUN 2022)
+線道表 - [女子組](https://drive.google.com/file/d/1g25xM6fq4jQ7nqJ3Bb14Z8_lleoSdNPj/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1VuxQDKH23mL-M6qsmEsb-xsMGet61s-A/view?usp=sharing) (last update: 27 JUN 2022) (last update: 27 JUN 2022)
+
+[賽事注意事項](https://drive.google.com/file/d/1Ifq0iFGk8j0biDy9HdxYotmjyOedRuzA/view?usp=sharing) (last update: 28 JUN 2022)
 
 如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
@@ -23,9 +25,11 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月3日 YMCA烏溪沙青年新村
 
-[時間表](https://drive.google.com/file/d/1gEoa-azTvUq08-GcguxAKFR8J1VRgC4s/view?usp=sharing)
+[時間表](https://drive.google.com/file/d/193TIj5s92VdOGjb1GUI1vBoHxEAJIALA/view?usp=sharing) (last update: 28 JUN 2022)
 
-線道表 - [女子組](https://drive.google.com/file/d/15bFYVwqZio9XNzmeRjv_oN3ijq0oEmKS/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1ANOxHrJuIUaHZxocagPpMo5BbXDluwMr/view?usp=sharing)
+線道表 - [女子組](https://drive.google.com/file/d/17I0qL-jwk2QVoYwdp7Ef8qpwiThUggr3/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1lQvxTGQXaKyqpl1F6NJ9lCLp02mj958s/view?usp=sharing) (last update: 28 JUN 2022)
+
+如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
