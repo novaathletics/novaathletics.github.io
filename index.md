@@ -27,6 +27,8 @@ feature_image: "/images/banner1.jpg"
 
 線道表 - [女子組](https://drive.google.com/file/d/17I0qL-jwk2QVoYwdp7Ef8qpwiThUggr3/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1lQvxTGQXaKyqpl1F6NJ9lCLp02mj958s/view?usp=sharing) (last update: 28 JUN 2022)
 
+[賽事注意事項](https://drive.google.com/file/d/1LZbjzGbXgCeLJe2RvhjkG22onXIrqSkR/view?usp=sharing) (last update: 28 JUN 2022)
+
 如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
