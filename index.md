@@ -10,6 +10,8 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月1日 馬鞍山運動場
 
+###### 由於天文台預計今晚午夜前改掛3號風球，同時預測明天風勢增強及狂風暴雨，沙田體育會現決定如今晚或明天早上07:00前懸掛三號風球的話，明天七月一日舉行的「沙田慶回歸兒童田徑錦標賽2022」取消，改期至9月12日中秋節假期舉行，所有報名全部轉至當日賽事，不設退款及更改項目；天氣變幻，不便之處敬請見諒。
+
 [時間表](https://drive.google.com/file/d/1hkX1kZ2DSY5w5gSt4zusZeTEo4qJb0P1/view?usp=sharing) (last update: 28 JUN 2022)
 
 線道表 - [女子組](https://drive.google.com/file/d/1g25xM6fq4jQ7nqJ3Bb14Z8_lleoSdNPj/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1VuxQDKH23mL-M6qsmEsb-xsMGet61s-A/view?usp=sharing) (last update: 27 JUN 2022) 
