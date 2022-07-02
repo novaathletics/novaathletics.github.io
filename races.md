@@ -12,6 +12,8 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月3日 YMCA烏溪沙青年新村
 
+###### 如今晚或明天早上07:00前曾經懸掛了三號風球或以上的話，明天七月三日舉行的「新星夏日兒童田徑錦標賽 2022☀️」全日賽事也取消！日間除下風球的話，「亦不會重新作賽」。比賽將改期舉行，所有報名全部轉至當日賽事，不設退款及更改項目；天氣變幻，不便之處敬請見諒。
+
 [時間表](https://drive.google.com/file/d/193TIj5s92VdOGjb1GUI1vBoHxEAJIALA/view?usp=sharing) (last update: 28 JUN 2022)
 
 線道表 - 女子組 [徑項](https://drive.google.com/file/d/1Hihvcv_UcJcIZKsc9ru0FmdRcGWW376K/view?usp=sharing) / [田項](https://drive.google.com/file/d/1SoPAiOf4GCirIvkgg0Pz9NBrNM7Vv-Xf/view?usp=sharing) (last update: 02 JUL 2022)
@@ -27,7 +29,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月1日 馬鞍山運動場
 
-###### 由於天文台改掛3號風球，同時預測明天風勢增強及狂風暴雨，沙田體育會現決定賽事「取消」，就算日間除下風球，「亦不會重新作賽」！比賽將改期至9月12日中秋節假期舉行，所有報名全部轉至當日賽事，不設退款及更改項目。秋涼比賽，再創佳績！謝謝各位支持。
+###### 比賽將改期至9月12日中秋節假期舉行，所有報名全部轉至當日賽事，不設退款及更改項目。秋涼比賽，再創佳績！謝謝各位支持。
 
 [時間表](https://drive.google.com/file/d/1hkX1kZ2DSY5w5gSt4zusZeTEo4qJb0P1/view?usp=sharing) (last update: 28 JUN 2022)
 
