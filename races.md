@@ -14,7 +14,6 @@ feature_image: "/images/banner1.jpg"
 
 ###### 賽事延期通知：由於天文台中午前仍掛3號風球，埸內部份樹木倒下未能清理，場地因安全理由未能開放，「新星夏日兒童田徑錦標賽 2022」將延期，實際日期待通知，所有報名將全部轉至當日賽事，不設退款及更改項目。不便之處請見諒。
 
-
 [時間表](https://drive.google.com/file/d/193TIj5s92VdOGjb1GUI1vBoHxEAJIALA/view?usp=sharing) (last update: 28 JUN 2022)
 
 線道表 - 女子組 [徑項](https://drive.google.com/file/d/1Hihvcv_UcJcIZKsc9ru0FmdRcGWW376K/view?usp=sharing) / [田項](https://drive.google.com/file/d/1SoPAiOf4GCirIvkgg0Pz9NBrNM7Vv-Xf/view?usp=sharing) (last update: 02 JUL 2022)
