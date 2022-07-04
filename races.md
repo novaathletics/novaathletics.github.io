@@ -12,7 +12,13 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月3日 YMCA烏溪沙青年新村
 
-###### 賽事延期通知：由於天文台中午前仍掛3號風球，埸內部份樹木倒下未能清理，場地因安全理由未能開放，「新星夏日兒童田徑錦標賽 2022」將延期，實際日期待通知，所有報名將全部轉至當日賽事，不設退款及更改項目。不便之處請見諒。
+###### 補賽通知及後補報名：「新星夏日兒童田徑錦標賽」現改期至七月十七日 ，所有報名將全部轉至當日比賽。
+
+###### 因部份跑道完成維修，現有5條線可使用，因此會取消「Final AB 」，全部跑項初賽最快5名入決賽，決出最後名次；而初賽第六名直接可以領取獎牌。因此時間充裕，「現接受少量加項及報名」！有興趣請再報名後，補回「後加項目」報名費，入數後Send 往本會WhatsApp 。
+
+###### [按此增加報名](https://forms.zohopublic.com/hknovasports852/form/202203072022/formperma/2R0hEEHdXV9SuC6vyyuQZ1XTBpBtkBdMjymsNhdCwMM)
+
+###### 截止報名日期：七月六日 23:59 (請注意：記得在收據寫上「比賽號碼」！)
 
 [時間表](https://drive.google.com/file/d/193TIj5s92VdOGjb1GUI1vBoHxEAJIALA/view?usp=sharing) (last update: 28 JUN 2022)
 
