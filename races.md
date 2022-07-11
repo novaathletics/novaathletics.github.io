@@ -10,17 +10,13 @@ feature_image: "/images/banner1.jpg"
 ---
 ### 新星夏日兒童田徑錦標賽 2022☀️ 
 
-#### 7月3日 YMCA烏溪沙青年新村
+#### 7月17日 YMCA烏溪沙青年新村 
 
-###### 補賽通知及後補報名：「新星夏日兒童田徑錦標賽」現改期至七月十七日 ，所有報名將全部轉至當日比賽。
+[時間表](https://drive.google.com/file/d/12rK9--yip1s83pgwaHqgDw9YJvwhuz24/view?usp=sharing) (last update: 11 JUL 2022)
 
-###### 因部份跑道完成維修，現有5條線可使用，因此會取消「Final AB 」，全部跑項初賽最快5名入決賽，決出最後名次；而初賽第六名直接可以領取獎牌。
+線道表 - 女子組 [徑項](https://drive.google.com/file/d/18pTlW3CxPALCv5wCh_CIrify_ceJyN8c/view?usp=sharing) / [田項](https://drive.google.com/file/d/1h6ROBqMS6WSg5G7wcMqprj6agw_egu9P/view?usp=sharing) (last update: 11 JUL 2022)
 
-[時間表](https://drive.google.com/file/d/193TIj5s92VdOGjb1GUI1vBoHxEAJIALA/view?usp=sharing) (last update: 28 JUN 2022)
-
-線道表 - 女子組 [徑項](https://drive.google.com/file/d/1Hihvcv_UcJcIZKsc9ru0FmdRcGWW376K/view?usp=sharing) / [田項](https://drive.google.com/file/d/1SoPAiOf4GCirIvkgg0Pz9NBrNM7Vv-Xf/view?usp=sharing) (last update: 02 JUL 2022)
-
-線道表 - 男子組 [徑項](https://drive.google.com/file/d/1n794Ex4l7ntxC2bjKa_RnbWwKafhe1ki/view?usp=sharing) / [田項](https://drive.google.com/file/d/1jb1Z2aHKMtd7JLblJWFD2Miwhk0-NOAY/view?usp=sharing) (last update: 02 JUL 2022)
+線道表 - 男子組 [徑項](https://drive.google.com/file/d/18pgqIV9NlB-aFA3G5oXXr2Opdh6pu1y-/view?usp=sharing) / [田項](https://drive.google.com/file/d/1d2dcf3rfuYyTc04rQhQwEDl_as9gcCiV/view?usp=sharing) (last update: 11 JUL 2022)
 
 [賽事注意事項](https://drive.google.com/file/d/1LZbjzGbXgCeLJe2RvhjkG22onXIrqSkR/view?usp=sharing) (last update: 28 JUN 2022)
 
