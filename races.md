@@ -40,21 +40,11 @@ feature_image: "/images/banner1.jpg"
 ---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
 
-香港少有的室內幼兒田徑賽，可以近距離打氣，比賽氣氛熾熱。給小朋友增加比賽經驗及有目標訓練，了解子女進度，為投考小學作準備。😎👏
+#### 7月24日 香港基督教青年會京士柏百周年紀念中心
 
-協辦機構:香港基督教青年會京士柏百周年紀念中心
+參賽名單 - [女子組](https://drive.google.com/file/d/1TRsJZ-Me5Ty7Cl-aZcSf7i8BdtNfbtgk/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1SHYHidTnugOetrMp9sFuZxbKNdAXaIGU/view?usp=sharing) (last update: 12 JUL 2022) 
 
-比賽日期: 2022年7月24日（星期日）
-
-比賽時間：1:30pm-5:00pm
-
-比賽地點：香港基督教青年會京士柏百周年紀念中心
-
-組別：男子及女子（2015、2016、2017及2018）運動員不可越級報名
-
-###### [按此觀看新星聖誕兒童田徑錦標賽2021場地影片](https://drive.google.com/file/d/1L8YzEq3zM8Xs1ff7A_SMuAPYEGimcjxU/view?usp=sharing)
-
-#### [按此報名 - 新星幼兒室内田徑錦標賽 2022](https://forms.zohopublic.com/hknovasports852/form/JulyNewcompetition/formperma/U_Q4mFoJsN_gnmc7WonjIco1qgO5dqJRU_MLmY5_rDI?fbclid=IwAR2wPkj-PgCvo-eBVjRn2cRv7vK_VAm-naL8tlPvZt1RUOC0DIlAKF5dfFk)
+請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 🎅🏻❄️新星聖誕兒童田徑錦標賽 2021
