@@ -10,7 +10,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月17日 YMCA烏溪沙青年新村 
 
-[時間表](https://drive.google.com/file/d/12rK9--yip1s83pgwaHqgDw9YJvwhuz24/view?usp=sharing) (last update: 11 JUL 2022)
+[時間表](https://drive.google.com/file/d/1amehtwjkl--SZyY5Z6sIucQxyCEKYp0k/view?usp=sharing) (last update: 13 JUL 2022)
 
 線道表 - 女子組 [徑項](https://drive.google.com/file/d/18pTlW3CxPALCv5wCh_CIrify_ceJyN8c/view?usp=sharing) / [田項](https://drive.google.com/file/d/1h6ROBqMS6WSg5G7wcMqprj6agw_egu9P/view?usp=sharing) (last update: 11 JUL 2022)
 
