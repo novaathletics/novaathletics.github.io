@@ -15,6 +15,19 @@ feature_image: "/images/banner1.jpg"
 請等待所有成績更新後才宣佈全場總冠軍🙌🏻
 
 ---------------------------------------------------------------------------------------
+### 新星幼兒室内田徑錦標賽 2022
+
+#### 7月24日 香港基督教青年會京士柏百周年紀念中心
+
+[時間表](https://drive.google.com/file/d/11iEvWQW5zHJB9JI1bwL8Bh_GZUEzyQXh/view?usp=sharing)
+
+線道表 - [女子組徑項](https://drive.google.com/file/d/10jHwSrFzuhqAEyiZ_RVmuJp6sdFtc19V/view?usp=sharing) / [女子組田項](https://drive.google.com/file/d/1242H086e9UDwc2S37UDDo7eOIk3JFZHG/view?usp=sharing)
+
+線道表 - [男子組徑項](https://drive.google.com/file/d/1cyk0DAnWB1rl786NskQDTEi93jhThw1e/view?usp=sharing) / [男子組田項](https://drive.google.com/file/d/1fDt-V01Z-gGo3DGV2IHPywBIECR_vY0C/view?usp=sharing)
+
+請核對線道表，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
+
+---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
 
 #### 7月1日 馬鞍山運動場
@@ -26,15 +39,6 @@ feature_image: "/images/banner1.jpg"
 線道表 - [女子組](https://drive.google.com/file/d/1g25xM6fq4jQ7nqJ3Bb14Z8_lleoSdNPj/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1VuxQDKH23mL-M6qsmEsb-xsMGet61s-A/view?usp=sharing) (last update: 27 JUN 2022) 
 
 [賽事注意事項](https://drive.google.com/file/d/1Ifq0iFGk8j0biDy9HdxYotmjyOedRuzA/view?usp=sharing) (last update: 28 JUN 2022)
-
-請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
-
----------------------------------------------------------------------------------------
-### 新星幼兒室内田徑錦標賽 2022
-
-#### 7月24日 香港基督教青年會京士柏百周年紀念中心
-
-參賽名單 - [女子組](https://drive.google.com/file/d/1TRsJZ-Me5Ty7Cl-aZcSf7i8BdtNfbtgk/view?usp=sharing) / [男子組](https://drive.google.com/file/d/1SHYHidTnugOetrMp9sFuZxbKNdAXaIGU/view?usp=sharing) (last update: 12 JUL 2022) 
 
 請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
