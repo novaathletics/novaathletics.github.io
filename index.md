@@ -10,6 +10,8 @@ feature_image: "/images/banner1.jpg"
 
 #### 7月24日 香港基督教青年會京士柏百周年紀念中心
 
+##### [成績公佈](https://drive.google.com/drive/folders/18xZkPEr2yhbdfS-1znS34ciqQgvsavAL?usp=sharing)
+
 [時間表](https://drive.google.com/file/d/16UTDFBnt8jzX1GydXj9lvUKgI__RGShU/view?usp=sharing)
 
 [賽事注意事項](https://drive.google.com/file/d/14YL0B-9mpS4qtJF3bwXFjG6tKbYR1kI5/view?usp=sharing)
