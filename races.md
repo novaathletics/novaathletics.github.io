@@ -8,23 +8,26 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
+### 第一屆沙田秋季兒童田徑錦標賽
+
+#### 10月4日 馬鞍山運動場
+
+比賽日期: 2022年10月4日（星期二、重陽節公眾假期）
+
+比賽時間：08:30-17:00 (2010 - 2015組別)、08:30 - 13:00(2016 - 2018組別)
+
+比賽地點：馬鞍山運動場
+
+組別：男子及女子（2010、2011、2012、2013、2014、2015、2016、2017及2018）運動員不可越級報名
+
+#### [按此報名 - 第一屆沙田秋季兒童田徑錦標賽](https://forms.zohopublic.com/hknovasports852/form/Copyof20220107202212092022/formperma/t3A48H8pZe9PiH9Ddmx7za-odjhDzhib0EG30XaqZZo)
+
+---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
 
 #### 7月24日 香港基督教青年會京士柏百周年紀念中心
 
 ##### [成績公佈](https://drive.google.com/drive/folders/18xZkPEr2yhbdfS-1znS34ciqQgvsavAL?usp=sharing)
-
-[時間表](https://drive.google.com/file/d/16UTDFBnt8jzX1GydXj9lvUKgI__RGShU/view?usp=sharing)
-
-[賽事注意事項](https://drive.google.com/file/d/14YL0B-9mpS4qtJF3bwXFjG6tKbYR1kI5/view?usp=sharing)
-
-[比賽場地](https://drive.google.com/file/d/1dP_5awl8KTfbwNM1YGS0N9rA5W2zy2jc/view?usp=sharing)
-
-線道表 - [女子組徑項](https://drive.google.com/file/d/1pBS8icbeixvC1fgsMLeJHxwe87vd8M6c/view?usp=sharing) / [女子組田項](https://drive.google.com/file/d/1Pekw1CpoD2jujglviMk91t3kp4MzPLKL/view?usp=sharing)
-
-線道表 - [男子組徑項](https://drive.google.com/file/d/1OPdwjf_4FBFIOd8IKMeuQRR2Q2b8lG9T/view?usp=sharing) / [男子組田項](https://drive.google.com/file/d/18h17oI1T0uOgGRlcsnpJ9dRwH4JRfFja/view?usp=sharing)
-
-請核對線道表，如有錯漏，請[Whatsapp至63683360](https://api.whatsapp.com/send?phone=85263683360)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 新星夏日兒童田徑錦標賽 2022☀️ 
