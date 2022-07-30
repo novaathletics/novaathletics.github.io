@@ -29,7 +29,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [我想參加恆常班/精英班!](https://docs.google.com/forms/d/e/1FAIpQLScXZvev1WfGzgGRg6c0O_HwiLUTxomhsZbSMn7ubRmbv1dFzw/viewform?usp=sf_link)
 
-![](/images/Regular.png)
+![](/images/Regular_220730.png)
 
 ![](/images/Elite_Web.png)
 
