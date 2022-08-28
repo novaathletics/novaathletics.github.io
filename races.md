@@ -21,7 +21,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 9月12日 馬鞍山運動場
 
-[參賽名單](https://drive.google.com/file/d/1Z7tHC8Y2LrfAYZ0goYWUJn4EYXj9MWRQ/view?usp=sharing)
+[參賽名單](https://drive.google.com/file/d/19DkN5BOfWIk9EACXT8imZRRSUl-ynjvc/view?usp=sharing)
 
 請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
