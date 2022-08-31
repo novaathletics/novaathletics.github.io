@@ -10,7 +10,15 @@ feature_image: "/images/banner1.jpg"
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
-[參賽名單](https://drive.google.com/file/d/1RmL4kZaX_G9x133y0hk6c2EcSF7b2fVN/view?usp=sharing)
+女子組 [田項](https://drive.google.com/file/d/15v_cAHfEkzQeQNW8CCdsoN1mEhSo4VzP/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1ATGSioq2WzK5bG7-u23EM7aqtpsiiAef/view?usp=sharing)
+
+男子組 [田項](https://drive.google.com/file/d/1dG08b4Ad2e0k5mtY33oA3-spdgrwMeFr/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1oNqHvEnMwHW5LHRHDenLmDMZY5UFFdpj/view?usp=sharing)
+
+[接力](https://drive.google.com/file/d/1-RDybkyZxjgvGz_kXHxc2L87b9CBqPhC/view?usp=sharing)
+
+[賽事時間表](https://drive.google.com/file/d/1fmuIP3w6frcopO7Piq9yVjORwBlDBT0B/view?usp=sharing)
+
+[賽事注意事項](https://drive.google.com/file/d/1dMS6BJoNyZdBg1_Pzkip3SdJFrydDk4Y/view?usp=sharing)
 
 請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
