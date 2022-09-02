@@ -10,11 +10,11 @@ feature_image: "/images/banner1.jpg"
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
-女子組 [田項](https://drive.google.com/file/d/15v_cAHfEkzQeQNW8CCdsoN1mEhSo4VzP/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1ATGSioq2WzK5bG7-u23EM7aqtpsiiAef/view?usp=sharing) (last update: 31 AUG 2022)
+女子組 [田項](https://drive.google.com/file/d/1n09MwlSoPNbX97CESbGVW4u73NTAatcR/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1naMGMpjcubaaYMV1G1AvyeGgo16CEwro/view?usp=sharing) (last update: 02 Sep 2022)
 
-男子組 [田項](https://drive.google.com/file/d/1dG08b4Ad2e0k5mtY33oA3-spdgrwMeFr/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1oNqHvEnMwHW5LHRHDenLmDMZY5UFFdpj/view?usp=sharing) (last update: 31 AUG 2022)
+男子組 [田項](https://drive.google.com/file/d/1rjiXIc5bAhFMuYfvqgo5OPMMfXAWZ9IO/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1J6voZDuuI5UqtghblVgVit_8zdhB-vEY/view?usp=sharing) (last update: 02 Sep 2022)
 
-[接力](https://drive.google.com/file/d/1-RDybkyZxjgvGz_kXHxc2L87b9CBqPhC/view?usp=sharing) (last update: 31 AUG 2022)
+[接力](https://drive.google.com/file/d/1-RDybkyZxjgvGz_kXHxc2L87b9CBqPhC/view?usp=sharing) (last update: 31 Aug 2022)
 
 [賽事時間表](https://drive.google.com/file/d/1fmuIP3w6frcopO7Piq9yVjORwBlDBT0B/view?usp=sharing) (last update: 31 AUG 2022)
 
