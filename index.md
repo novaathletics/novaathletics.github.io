@@ -29,6 +29,8 @@ feature_image: "/images/banner1.jpg"
 
 [參賽名單](https://drive.google.com/file/d/19DkN5BOfWIk9EACXT8imZRRSUl-ynjvc/view?usp=sharing)
 
+賽事時間表 [2008-2013](https://drive.google.com/file/d/1yjECVdwfBRdNle_qiZFpAl_Jay5QhOVk/view?usp=sharing) / [2014-2018](https://drive.google.com/file/d/1xR2I9hGJNwD6mCifk_4e-bXO30DXVVjT/view?usp=sharing)
+
 [賽事注意事項](https://drive.google.com/file/d/11nxu5ZUnm_s8jBN2OeLwmwScJ17nVN2v/view?usp=sharing)
 
 請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
