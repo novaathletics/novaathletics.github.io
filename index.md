@@ -10,17 +10,7 @@ feature_image: "/images/banner1.jpg"
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
-女子組 [田項](https://drive.google.com/file/d/1n09MwlSoPNbX97CESbGVW4u73NTAatcR/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1naMGMpjcubaaYMV1G1AvyeGgo16CEwro/view?usp=sharing) (last update: 02 Sep 2022)
-
-男子組 [田項](https://drive.google.com/file/d/1rjiXIc5bAhFMuYfvqgo5OPMMfXAWZ9IO/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1J6voZDuuI5UqtghblVgVit_8zdhB-vEY/view?usp=sharing) (last update: 02 Sep 2022)
-
-[接力](https://drive.google.com/file/d/1-RDybkyZxjgvGz_kXHxc2L87b9CBqPhC/view?usp=sharing) (last update: 31 Aug 2022)
-
-[賽事時間表](https://drive.google.com/file/d/1fmuIP3w6frcopO7Piq9yVjORwBlDBT0B/view?usp=sharing) (last update: 31 AUG 2022)
-
-[賽事注意事項](https://drive.google.com/file/d/1dMS6BJoNyZdBg1_Pzkip3SdJFrydDk4Y/view?usp=sharing) (last update: 31 AUG 2022)
-
-請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
+##### [成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
