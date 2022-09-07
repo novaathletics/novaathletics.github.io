@@ -6,26 +6,26 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 沙田慶回歸兒童田徑錦標賽 2022 
+
+#### 9月12日 馬鞍山運動場
+
+女子組 [田項](https://drive.google.com/file/d/1VEMVkZi-zsTo2RLK8BA6lYausvllhQMu/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1Ucnmu1Ihceflkhlq96-AAik6m9Y2itkZ/view?usp=sharing) (last update: 07 Sep 2022)
+
+男子組 [田項](https://drive.google.com/file/d/1UIlyiCYnn13iLrkwqUG_JONJ4n7epB37/view?usp=sharing) / [徑項](https://drive.google.com/file/d/19LQe47GObNxFqEytRX4Qai7hrOvjMEct/view?usp=sharing) (last update: 07 Sep 2022)
+
+賽事時間表 [2008-2013](https://drive.google.com/file/d/1btBK92nGk01x0La3dQi7UQhlu0lTQNdg/view?usp=sharing) / [2014-2018](https://drive.google.com/file/d/1yu7EClUQKQcsbd6TOnpOaJR2MBmG7Wjn/view?usp=sharing) (last update: 07 Sep 2022)
+
+[賽事注意事項](https://drive.google.com/file/d/11nxu5ZUnm_s8jBN2OeLwmwScJ17nVN2v/view?usp=sharing) (last update: 03 Sep 2022)
+
+請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
+
+---------------------------------------------------------------------------------------
 ### 第一屆新星週年田徑錦標賽
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
 ##### [成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
-
----------------------------------------------------------------------------------------
-### 沙田慶回歸兒童田徑錦標賽 2022 
-
-#### 9月12日 馬鞍山運動場
-
-女子組 [田項](https://drive.google.com/file/d/1D6zqJKp3BjreGuLl_fbw8bprf420FC1U/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1-k0qWzRyTbUhhIXXSdzRbaoxfJVL3FhU/view?usp=sharing) (last update: 03 Sep 2022)
-
-男子組 [田項](https://drive.google.com/file/d/1T9Nk4PRX1c5vpB1x7XLCiRPppyJzZ9Up/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1jipB6pGkLuM9ApTdVXeSl0pNO9vaGjrL/view?usp=sharing) (last update: 03 Sep 2022)
-
-賽事時間表 [2008-2013](https://drive.google.com/file/d/1yjECVdwfBRdNle_qiZFpAl_Jay5QhOVk/view?usp=sharing) / [2014-2018](https://drive.google.com/file/d/1xR2I9hGJNwD6mCifk_4e-bXO30DXVVjT/view?usp=sharing) (last update: 03 Sep 2022)
-
-[賽事注意事項](https://drive.google.com/file/d/11nxu5ZUnm_s8jBN2OeLwmwScJ17nVN2v/view?usp=sharing) (last update: 03 Sep 2022)
-
-請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 「新星田徑會新學年會員大招募」恆常班
@@ -56,36 +56,6 @@ feature_image: "/images/banner1.jpg"
 組別：男子及女子（2010、2011、2012、2013、2014、2015、2016、2017及2018）運動員不可越級報名
 
 #### [按此報名 - 第一屆沙田秋季兒童田徑錦標賽](https://forms.zohopublic.com/hknovasports852/form/Copyof20220107202212092022/formperma/t3A48H8pZe9PiH9Ddmx7za-odjhDzhib0EG30XaqZZo)
-
----------------------------------------------------------------------------------------
-
-### 新星幼兒室内田徑錦標賽 2022
-
-#### 7月24日 香港基督教青年會京士柏百周年紀念中心
-
-##### [成績公佈](https://drive.google.com/drive/folders/18xZkPEr2yhbdfS-1znS34ciqQgvsavAL?usp=sharing)
-
----------------------------------------------------------------------------------------
-### 新星夏日兒童田徑錦標賽 2022☀️ 
-
-#### 7月17日 YMCA烏溪沙青年新村 
-
-##### [成績公佈](https://drive.google.com/drive/folders/1QBQsVVKDakNFa5oZspTp4bCn4fPIblGG?usp=sharing)
-
----------------------------------------------------------------------------------------
-### 新星暑假兒童及幼兒田徑培訓計劃 2022
-
-暑假將至，田徑季節也快來，大家係時候開始準備了！本會將於七月底開班，訓練主要教導小朋友正確田徑技術及改善跑姿；同時亦進行速度訓練，提升肌肉反應及爆發力。後階段會教大家比賽技巧及起跑等；另外，更有幼兒班(K1-K3)，以基礎訓練跑步技術為主，希望同學們完成課程後可參加正式比賽，提高成績。歡迎小學及初中參加！
-
-#### [按此報名 - 新星暑假兒童及幼兒田徑培訓計劃 2022](https://forms.gle/HX9ZVHofxw7Ts1Dk6)
-
-###### A班：七月底至八月底，共10課，下午訓練，包括訓練服一套 ($1400)
-
-###### B班：八月中至八月尾，共6課，上午訓練，包括訓練服一套 ($840)
-
-![](/images/A.jpeg)
-
-![](/images/B.jpeg)
 
 ---------------------------------------------------------------------------------------
 ### 教練陳佩琦👩🏽
