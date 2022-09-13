@@ -10,15 +10,8 @@ feature_image: "/images/banner1.jpg"
 
 #### 9月12日 馬鞍山運動場
 
-女子組 [田項](https://drive.google.com/file/d/1CJnh_p5o30D7S1nXltszZuEt6oVgxHNE/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1UIlGy8YwKYHWOUrL9-x5vWZpK9EkZn0W/view?usp=sharing) (last update: 10 Sep 2022)
+##### [成績公佈] (https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing) 
 
-男子組 [田項](https://drive.google.com/file/d/1UIlyiCYnn13iLrkwqUG_JONJ4n7epB37/view?usp=sharing) / [徑項](https://drive.google.com/file/d/19LQe47GObNxFqEytRX4Qai7hrOvjMEct/view?usp=sharing) (last update: 07 Sep 2022)
-
-賽事時間表 [2008-2013](https://drive.google.com/file/d/1J6kVQZewW5X0wfXkvEuO-AvSc2RLTEhY/view?usp=sharing) / [2014-2018](https://drive.google.com/file/d/1yu7EClUQKQcsbd6TOnpOaJR2MBmG7Wjn/view?usp=sharing) (last update: 10 Sep 2022)
-
-[賽事注意事項](https://drive.google.com/file/d/11nxu5ZUnm_s8jBN2OeLwmwScJ17nVN2v/view?usp=sharing) (last update: 03 Sep 2022)
-
-請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
 
 ---------------------------------------------------------------------------------------
 ### 第一屆新星週年田徑錦標賽
