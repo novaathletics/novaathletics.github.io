@@ -9,9 +9,8 @@ feature_image: "/images/banner1.jpg"
 ### 沙田慶回歸兒童田徑錦標賽 2022 
 
 #### 9月12日 馬鞍山運動場
-
-##### [成績公佈] (https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing) 
-
+ 
+##### [成績公佈](https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 ### 第一屆新星週年田徑錦標賽
