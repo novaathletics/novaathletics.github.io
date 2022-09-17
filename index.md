@@ -19,7 +19,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/Untitled4/formperma/zf_N1ssD3muUoq9Rdt9OOEzyt-eci93N47Z4zPm2rsQ)
 
-#### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
+#### [按此報名 - 第二站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
 
 ---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
