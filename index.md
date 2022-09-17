@@ -10,7 +10,7 @@ feature_image: "/images/banner1.jpg"
 
 ##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
 
-##### 2023年1月1日（星期日）第二站：YMCA 佐敦京士柏百週年紀念中心有蓋體育場 
+##### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
 一個專為幼兒（2014-2019）而設的節日賽事；
 兩埸比賽在不同環境中競遂，挑戰小朋友的難度，兩站中最好成績的六個項目決出聯賽總冠軍，可得大獎杯及元旦禮物一份！
@@ -19,7 +19,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/Untitled4/formperma/zf_N1ssD3muUoq9Rdt9OOEzyt-eci93N47Z4zPm2rsQ)
 
-#### [按此報名 - 第二站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
+#### [按此報名 - 第二站 ：YMCA佐敦京士柏百週年紀念中心有蓋體育場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
 
 ---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
