@@ -6,6 +6,23 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 第一屆沙田秋季兒童田徑錦標賽
+
+#### 10月4日 馬鞍山運動場
+
+比賽日期: 2022年10月4日（星期二、重陽節公眾假期）
+
+比賽時間：08:30-17:00 (2010 - 2015組別)、08:30 - 13:00(2016 - 2018組別)
+
+比賽地點：馬鞍山運動場
+
+##### [按此瀏覽：參賽名單_男子組](https://drive.google.com/file/d/1BLEbHH9kXur7SWUwTty_-Dg14n5O_r6z/view?usp=sharing)
+
+##### [按此瀏覽：參賽名單_女子組](https://drive.google.com/file/d/11Gizjf108c27RLjGaZwPIzT_YEcdT5UD/view?usp=sharing)
+
+如有錯漏，請電郵至 novasports852@gmail.com 或Whatsapp至60661322查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。
+
+---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」
 
 ##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
@@ -40,7 +57,7 @@ feature_image: "/images/banner1.jpg"
 
 疫情漸退，沉靜了的學界比賽季賽即將展開，本會成立一週年，培訓出不少精英，發掘田徑新星，歡迎有興趣學跑步、求突破的小朋友入會參加。訓練以學習正確跑步技術為主，循序漸進，以學界比賽、分齡賽為目標，長線培訓學員爭取入港隊，代表香港出賽的機會。教練多為前港隊或精英運動員，課程由總教練葉啟德策劃安排，於全港各區也有訓練點，歡迎幼兒、兒童及少年報名參加訓練班。
 
-#### [我想參加訓練!](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
+#### [按此報名：我想參加訓練!](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
 
 ![](/images/2022Sep_Regular.png)
 
@@ -49,21 +66,7 @@ feature_image: "/images/banner1.jpg"
 ![](/images/2022Sep_MID.png)
 
 ---------------------------------------------------------------------------------------
-### 第一屆沙田秋季兒童田徑錦標賽
 
-#### 10月4日 馬鞍山運動場
-
-比賽日期: 2022年10月4日（星期二、重陽節公眾假期）
-
-比賽時間：08:30-17:00 (2010 - 2015組別)、08:30 - 13:00(2016 - 2018組別)
-
-比賽地點：馬鞍山運動場
-
-組別：男子及女子（2010、2011、2012、2013、2014、2015、2016、2017及2018）運動員不可越級報名
-
-#### [按此報名 - 第一屆沙田秋季兒童田徑錦標賽](https://forms.zohopublic.com/hknovasports852/form/Copyof20220107202212092022/formperma/t3A48H8pZe9PiH9Ddmx7za-odjhDzhib0EG30XaqZZo)
-
----------------------------------------------------------------------------------------
 ### 教練陳佩琦👩🏽
 
 ##### [星島日報報導📰 - 沙田賜我力量](https://drive.google.com/drive/folders/1ngK58f050uDZj7RgVmokHQQTiDBm-nfP?usp=sharing)
