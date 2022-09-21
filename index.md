@@ -18,7 +18,7 @@ feature_image: "/images/banner1.jpg"
 
 ##### [按此瀏覽：參賽名單_女子組](https://drive.google.com/file/d/11Gizjf108c27RLjGaZwPIzT_YEcdT5UD/view?usp=sharing)
 
-如有錯漏，請電郵至 novasports852@gmail.com 或Whatsapp至60661322查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。
+如有錯漏，請電郵至 novasports852@gmail.com 或Whatsapp至60661322查詢。我們會集合所有需要更改的事項才會公佈更改參賽名單，請耐心等候。
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」
