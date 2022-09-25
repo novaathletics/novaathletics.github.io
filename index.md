@@ -14,7 +14,7 @@ feature_image: "/images/banner1.jpg"
 
 比賽地點：馬鞍山運動場
 
-### [按此瀏覽：賽事時間表、線道表、注意事項（包括惡劣天氣安排、比賽流程、健康申報表的連結等，請務必留意）](https://drive.google.com/file/d/1D-hEdp5WqllmaLd29G2LxuOxw59A0QrJ/view?usp=sharing)
+### [按此瀏覽：賽事時間表、線道表、注意事項（包括惡劣天氣安排、比賽流程、健康申報表的連結等，請務必留意。）](https://drive.google.com/file/d/1D-hEdp5WqllmaLd29G2LxuOxw59A0QrJ/view?usp=sharing)
 
 如有錯漏，請電郵至 novasports852@gmail.com 或Whatsapp至60661322查詢。我們會集合所有需要更改的事項才會公佈最新線道表，請耐心等候。
 
