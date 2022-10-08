@@ -13,7 +13,8 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/109yS_JjKuu_EWDsWp9hrmWNBKq3YkKvu?usp=sharing)
 
-***多謝鍾曉林家長義務為大家拍攝「沙田秋季田徑賽」比賽花絮照片😎👏👏👏 [[按此瀏覽：比賽花絮照片]](https://mega.nz/folder/QQAQxJzT#BOKxEnrWBFlq_GYfr4yzBQ)***
+***多謝鍾曉林家長義務為大家拍攝「沙田秋季田徑賽」比賽花絮照片😎👏👏👏 
+[[按此瀏覽：比賽花絮照片]](https://mega.nz/folder/QQAQxJzT#BOKxEnrWBFlq_GYfr4yzBQ)***
 
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田冬季青少年田徑聯賽（聖誕站）」
