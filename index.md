@@ -14,18 +14,18 @@ feature_image: "/images/banner1.jpg"
 
 主辦機構：沙田體育會（田總註冊屬會）
 
-比賽贊助：中興體育用品公司、寶礦力水特
- 
+比賽贊助：中興體育用品公司、寶礦力水特 
+
 協辦機構：新星田徑會
- 
+
 比賽日期：2023年1月8日
- 
+
 比賽時間：08:15-17:00 
- 
+
 比賽地點：馬鞍山運動場
 
 對像年齡：2004 - 2016 
- 
+
 組別：男子及女子，運動員不可越級報名
 
 截止報名日期：2022年12月27日或額滿即止
@@ -144,7 +144,7 @@ feature_image: "/images/banner1.jpg"
 
 在此恭喜各位會友，各位每週兩至三次練習及刻苦訓練的付出，才有今日成果，團結是力量，多謝各家長信任，未來希望能尋找更多新星成為香港未來田徑接班人!
 
-[歡迎幼兒至中學生參加 - 訓練班詳情](https://docs.google.com/forms/d/e/1FAIpQLScXZvev1WfGzgGRg6c0O_HwiLUTxomhsZbSMn7ubRmbv1dFzw/viewform?fbclid=IwAR1lI5pe4k28V-qBzkFvfGz8-Mrw3iTpbRaucbRJRTIr_V2n01rZBCtYNZo)
+[歡迎幼兒至中學生參加 - 訓練班詳情](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
 
 ![](/images/新星訓練_初見成果.jpg)
 
