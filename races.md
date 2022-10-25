@@ -8,41 +8,98 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 # excerpt: ""
 ---
+### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)
+
+「沙田學界田徑之王」中小學學界季節開始，本會特舉辦是次賽事，決出全港中小學各組別學界精英中之精英，奪取最高榮譽！
+
+以兩站賽事每站最高分的三項個人項目計算，冠軍可獲中興體育用品現金禮卷$1000（可用於正價貨品）及精美獎座，名額有限，快啲報名啦！（參加者憑號碼布往中興體育用品公司購買正價貨品，可獲9折優惠。）
+
+主辦機構：沙田體育會（田總註冊屬會）
+
+比賽贊助：中興體育用品公司、寶礦力水特
+ 
+協辦機構：新星田徑會
+ 
+比賽日期：2023年1月8日
+ 
+比賽時間：08:15-17:00 
+ 
+比賽地點：馬鞍山運動場
+
+對像年齡：2004 - 2016 
+ 
+組別：男子及女子，運動員不可越級報名
+
+截止報名日期：2022年12月27日或額滿即止
+ 
+#### [按此報名 - 第一屆沙田學界田徑之王（第二站）(08-01-2023)](https://zfrmz.com/M9I8jz1Kq0DvKMs8Tg8h)
+
+---------------------------------------------------------------------------------------
+### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022)
+
+秋季頻密賽事結束，聖誕假期（Boxing Day）有好節目！
+學界季節，為青少年提供一個電子計時的熱身賽，提升狀態，除了小學同學之外，更加設中學ABC組賽事，善用聖誕假期。
+
+主辦機構：沙田體育會（田總註冊屬會）
+
+比賽贊助：中興體育用品公司、寶礦力水特
+ 
+協辦機構：新星田徑會
+ 
+比賽日期：2022年12月26日
+ 
+比賽時間：08:15-17:00 
+ 
+比賽地點：馬鞍山運動場
+
+對像年齡：2004 - 2016 
+ 
+組別：男子及女子，運動員不可越級報名
+
+截止報名日期：2022年12月9日或額滿即止
+ 
+**請留意：第一屆沙田冬季青少年田徑聯賽已改名為第一屆沙田學界田徑之王，賽事內容不變。*
+
+#### [按此報名 - 第一屆沙田學界田徑之王（第一站）(26-12-2022)](https://forms.zohopublic.com/hknovasports852/form/261220222/formperma/TJmsLORweYEdpbHrhI7IUgbJU4KXjJm01WS91BCaNBg)
+
+---------------------------------------------------------------------------------------
+### 「新星幼兒冬日田徑聯賽」
+
+##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
+
+##### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
+
+一個專為幼兒（2014-2019）而設的節日賽事；
+兩埸比賽在不同環境中競遂，挑戰小朋友的難度，兩站中最好成績的六個項目決出聯賽總冠軍，可得大獎杯及元旦禮物一份！
+
+
+
+#### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/Untitled4/formperma/zf_N1ssD3muUoq9Rdt9OOEzyt-eci93N47Z4zPm2rsQ)
+
+#### [按此報名 - 第二站 ：YMCA佐敦京士柏百週年紀念中心有蓋體育場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
+---------------------------------------------------------------------------------------
+### 「第一屆沙田秋季兒童田徑錦標賽」
+
+#### 2022年10月4日 馬鞍山運動場
+
+#### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/109yS_JjKuu_EWDsWp9hrmWNBKq3YkKvu?usp=sharing)
+
+***多謝鍾曉林家長義務為大家拍攝「沙田秋季田徑賽」比賽花絮照片😎👏👏👏 
+[[按此瀏覽：比賽花絮照片]](https://mega.nz/folder/QQAQxJzT#BOKxEnrWBFlq_GYfr4yzBQ)***
+
+---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
 
 #### 9月12日 馬鞍山運動場
-
-女子組 [田項](https://drive.google.com/file/d/1VEMVkZi-zsTo2RLK8BA6lYausvllhQMu/view?usp=sharing) / [徑項](https://drive.google.com/file/d/1Ucnmu1Ihceflkhlq96-AAik6m9Y2itkZ/view?usp=sharing) (last update: 07 Sep 2022)
-
-男子組 [田項](https://drive.google.com/file/d/1UIlyiCYnn13iLrkwqUG_JONJ4n7epB37/view?usp=sharing) / [徑項](https://drive.google.com/file/d/19LQe47GObNxFqEytRX4Qai7hrOvjMEct/view?usp=sharing) (last update: 07 Sep 2022)
-
-賽事時間表 [2008-2013](https://drive.google.com/file/d/1btBK92nGk01x0La3dQi7UQhlu0lTQNdg/view?usp=sharing) / [2014-2018](https://drive.google.com/file/d/1yu7EClUQKQcsbd6TOnpOaJR2MBmG7Wjn/view?usp=sharing) (last update: 07 Sep 2022)
-
-[賽事注意事項](https://drive.google.com/file/d/11nxu5ZUnm_s8jBN2OeLwmwScJ17nVN2v/view?usp=sharing) (last update: 03 Sep 2022)
-
-請核對名單，如有錯漏，請[Whatsapp至60661322](https://api.whatsapp.com/send?phone=85260661322)查詢。我們會集合所有需要更改的事項才會公佈更改的線道名單，請耐心等候。🙌🏻
+ 
+##### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 ### 第一屆新星週年田徑錦標賽
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
-##### [成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
-
----------------------------------------------------------------------------------------
-### 第一屆沙田秋季兒童田徑錦標賽
-
-#### 10月4日 馬鞍山運動場
-
-比賽日期: 2022年10月4日（星期二、重陽節公眾假期）
-
-比賽時間：08:30-17:00 (2010 - 2015組別)、08:30 - 13:00(2016 - 2018組別)
-
-比賽地點：馬鞍山運動場
-
-組別：男子及女子（2010、2011、2012、2013、2014、2015、2016、2017及2018）運動員不可越級報名
-
-#### [按此報名 - 第一屆沙田秋季兒童田徑錦標賽](https://forms.zohopublic.com/hknovasports852/form/Copyof20220107202212092022/formperma/t3A48H8pZe9PiH9Ddmx7za-odjhDzhib0EG30XaqZZo)
+##### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 ### 新星幼兒室内田徑錦標賽 2022
