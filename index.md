@@ -82,11 +82,11 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名：我想參加訓練!](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
 
-![](/images/2022Sep_Regular.png)
+![](/images/1.png)
 
-![](/images/2022Sep_Elite.png)
+![](/images/2.png)
 
-![](/images/2022Sep_MID.png)
+![](/images/3.png)
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田秋季兒童田徑錦標賽」
 
