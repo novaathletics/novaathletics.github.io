@@ -6,6 +6,17 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+
+### 「新星幼兒冬日田徑聯賽」參賽名單
+##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
+
+如有錯漏，請電郵至 novasports852@gmail.com 或Whatsapp至60661322查詢。
+我們會集合所有需要更改的事項才會公佈更改的參賽名單，請耐心等候。🙌🏻
+
+#### [按此瀏覽 - 男子組參賽名單V2.pdf](https://drive.google.com/file/d/1flYAuzrATlGv8BExqttyfhZ-NqvCreBr/view?usp=share_link)
+
+#### [按此瀏覽 - 女子組參賽名單V2.pdf](https://drive.google.com/file/d/1Bg3a0YRiDyf8lll_rXx70W_JTMUfzMQ8/view?usp=share_link)
+---------------------------------------------------------------------------------------
 秋高氣爽，訓練好季節！
 本會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
 
