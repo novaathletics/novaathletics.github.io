@@ -11,7 +11,7 @@ feature_image: "/images/banner1.jpg"
 #### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
 ### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
 
-
+#### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
 ---------------------------------------------------------------------------------------
 秋高氣爽，訓練好季節！
 本會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
