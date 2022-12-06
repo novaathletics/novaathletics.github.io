@@ -12,16 +12,23 @@ feature_image: "/images/banner1.jpg"
 ### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
 
 #### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
----------------------------------------------------------------------------------------
-秋高氣爽，訓練好季節！
-本會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
-
-![](images/trial.JPG)
-
-#### [按此報名 - 新星免費試堂](https://zfrmz.com/q0nnfaZ1v8qcdPjMVo4B)
 
 ---------------------------------------------------------------------------------------
 
+### 「新星幼兒冬日田徑聯賽」
+
+##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
+
+##### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
+
+一個專為幼兒（2014-2019）而設的節日賽事；
+兩埸比賽在不同環境中競遂，挑戰小朋友的難度，兩站中最好成績的六個項目決出聯賽總冠軍，可得大獎杯及元旦禮物一份！
+
+
+#### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/Untitled4/formperma/zf_N1ssD3muUoq9Rdt9OOEzyt-eci93N47Z4zPm2rsQ)
+
+#### [按此報名 - 第二站 ：YMCA佐敦京士柏百週年紀念中心有蓋體育場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
+---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)
 
 「沙田學界田徑之王」中小學學界季節開始，本會特舉辦是次賽事，決出全港中小學各組別學界精英中之精英，奪取最高榮譽！
@@ -76,21 +83,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名 - 第一屆沙田學界田徑之王（第一站）(26-12-2022)](https://forms.zohopublic.com/hknovasports852/form/261220222/formperma/TJmsLORweYEdpbHrhI7IUgbJU4KXjJm01WS91BCaNBg)
 
----------------------------------------------------------------------------------------
-### 「新星幼兒冬日田徑聯賽」
 
-##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
-
-##### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
-
-一個專為幼兒（2014-2019）而設的節日賽事；
-兩埸比賽在不同環境中競遂，挑戰小朋友的難度，兩站中最好成績的六個項目決出聯賽總冠軍，可得大獎杯及元旦禮物一份！
-
-
-
-#### [按此報名 - 第一站 ：YMCA烏溪沙青少年新村田徑場](https://forms.zohopublic.com/hknovasports852/form/Untitled4/formperma/zf_N1ssD3muUoq9Rdt9OOEzyt-eci93N47Z4zPm2rsQ)
-
-#### [按此報名 - 第二站 ：YMCA佐敦京士柏百週年紀念中心有蓋體育場](https://forms.zohopublic.com/hknovasports852/form/01012023/formperma/4qktWHKGMCEqJMacT0-_o9Fz2V3xBxh0kifxotZxAZo)
 ---------------------------------------------------------------------------------------
 ### 「新星田徑會新學年會員大招募」恆常班
 
