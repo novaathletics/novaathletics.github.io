@@ -7,27 +7,10 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 ---
 
-### 「新星幼兒冬日田徑聯賽」參賽名單
-##### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
+### 「新星幼兒冬日田徑聯賽」成績公佈
+#### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
+### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
 
-如有錯漏，請Whatsapp至60661322或電郵至 novasports852@gmail.com 查詢。
-我們會集合所有需要更改的事項才會公佈更改的線道表，請耐心等候。🙌🏻
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_賽事時間表V2](https://drive.google.com/file/d/1lBo6o5XUgMaPvDHSDpByVuALtgiLreZj/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_女子組徑項V2](https://drive.google.com/file/d/14B89FQu5NfyYgD6BzOOKlCIcSpqAtIgQ/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_女子組田項V2](https://drive.google.com/file/d/1XurbgqYp2Lw1jCbsZ9PhT5qYy7PBPOE7/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_男子組徑項V2](https://drive.google.com/file/d/1A9luhuGeWpu404Oa33lcdFQ1c-f2_z3P/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_男子組田項V2](https://drive.google.com/file/d/1S7mDFslWSrlxatPprkYWWlQo9Q8YdvKK/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_接力V2](https://drive.google.com/file/d/1y992lZEh3XT0FdHXBIGf_MCHPIeo0SEH/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_賽事注意事項](https://drive.google.com/file/d/1oOlAo-nGx1C6ZnXGc9IXCjb0CiTGt9ZV/view?usp=share_link)
-
-###### [按此瀏覽 - 1204新星冬日聯賽第一站_活動地圖](https://drive.google.com/file/d/1Exz5owz77HARNpFtP6svgalnfnJWvgvK/view?usp=share_link)
 
 ---------------------------------------------------------------------------------------
 秋高氣爽，訓練好季節！
