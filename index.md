@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 ---
 ---------------------------------------------------------------------------------------
-### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 參賽名單公佈
+### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 時間表及線道表公佈
 
 主辦機構：沙田體育會（田總註冊屬會）
 
@@ -20,10 +20,16 @@ feature_image: "/images/banner1.jpg"
 比賽地點：馬鞍山運動場
 
 **請留意：第一屆沙田冬季青少年田徑聯賽已改名為第一屆沙田學界田徑之王，賽事內容不變。*
-### [按此瀏覽 - 1226田徑之王(一)參賽名單_男子組)](https://drive.google.com/file/d/1Cpw0x_Uc8b-BWWp7hYLm_PqfROzEJNnJ/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一)參賽名單_女子組)](https://drive.google.com/file/d/1s9aiYkqPWakKAPnOS_ppceCw9cPYFd6g/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 時間表14-16_V1)](https://drive.google.com/file/d/1eYBlyA-3JFWmMSHeo753DWhFIF4hK3N2/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 時間表中學, 11-13_V1](https://drive.google.com/file/d/10Xx7NmtL7VCCFQP95yOHkM1c445-Tn7N/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_女子徑項V1](https://drive.google.com/file/d/1eliqv-OGVZ04ZNt620LU0PHtcGJlW6f2/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_女子田項V1](https://drive.google.com/file/d/1cGALXOGOukzY8VnlOH1sx1WR3TIlz-V1/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_男子徑項V1](https://drive.google.com/file/d/1QvJZQfJsW20qllTCm5TvmGykF6HGBjRC/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_男子田項V1](https://drive.google.com/file/d/18rfa3T1XbnyLjYRMNBv-W5Gk3lFJwRPv/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_接力V1](https://drive.google.com/file/d/1D6odlZoejjM4N9aQedvE0e4QDFECTOnQ/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 賽事注意事項](https://drive.google.com/file/d/1hBovfn7Gp3gLYfcqrL9NnD2_ABhG_71P/view?usp=share_link)
 
-如有錯漏，請Whatsapp至60661322或電郵至novasports852@gmail.com查詢。我們會集合所有需要更改的事項才會公佈更改的參賽名單，請耐心等候。
+如有錯漏，請電郵至novasports852@gmail.com或Whatsapp至63683360或查詢。我們會集合所有需要更改的事項才會公佈更改的參賽名單，敬請耐心等候。
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
