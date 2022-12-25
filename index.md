@@ -28,12 +28,12 @@ feature_image: "/images/banner1.jpg"
 
 **請留意：第一屆沙田冬季青少年田徑聯賽已改名為第一屆沙田學界田徑之王，賽事內容不變。*
 ### [按此瀏覽 - 1226田徑之王(一) 時間表14-16_V1-2](https://drive.google.com/file/d/13rkkfxv-vT6Y0yp24ZJRF03HJ6LnI-mv/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 時間表中學, 11-13_V1-2](https://drive.google.com/file/d/1p9VZcDyEzV7wI1dyQMNYnKhvX8eP6XZF/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_女子徑項V1](https://drive.google.com/file/d/1eliqv-OGVZ04ZNt620LU0PHtcGJlW6f2/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 時間表中學, 11-13_V2](https://drive.google.com/file/d/1D2FGXgMGrnSpKXfBSriqiOMVoAm4fG_w/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_女子徑項V2](https://drive.google.com/file/d/1UVIQsM8AO8P5lG879ikDLi9LM8cKaOWf/view?usp=share_link)
 ### [按此瀏覽 - 1226田徑之王(一) 線道表_女子田項V1](https://drive.google.com/file/d/1cGALXOGOukzY8VnlOH1sx1WR3TIlz-V1/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_男子徑項V1](https://drive.google.com/file/d/1QvJZQfJsW20qllTCm5TvmGykF6HGBjRC/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_男子田項V1](https://drive.google.com/file/d/18rfa3T1XbnyLjYRMNBv-W5Gk3lFJwRPv/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_接力V1](https://drive.google.com/file/d/1D6odlZoejjM4N9aQedvE0e4QDFECTOnQ/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_男子徑項V2](https://drive.google.com/file/d/1cAYNRC4wdm5cIyDAmnawF5aSFQyRPXmr/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_男子田項V2](https://drive.google.com/file/d/1s5uEdkadg9thEbNbmmqwY0hVhG-bUxcA/view?usp=share_link)
+### [按此瀏覽 - 1226田徑之王(一) 線道表_接力V2](https://drive.google.com/file/d/1UiTqFduN0rCWXAF3yBWNh1b6FQNGXRww/view?usp=share_link)
 ### [按此瀏覽 - 1226田徑之王(一) 賽事注意事項](https://drive.google.com/file/d/1hBovfn7Gp3gLYfcqrL9NnD2_ABhG_71P/view?usp=share_link)
 
 如有錯漏，請電郵至novasports852@gmail.com或Whatsapp至63683360或查詢。我們會集合所有需要更改的事項才會公佈更改的參賽名單，敬請耐心等候。
