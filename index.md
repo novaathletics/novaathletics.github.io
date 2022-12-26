@@ -14,29 +14,20 @@ feature_image: "/images/banner1.jpg"
 ### [按此瀏覽 - 0101冬日聯賽第二站_男子組參賽名單](https://drive.google.com/file/d/1Q94qLHt5o4zU3oH_a_wSUO1rufVtfCPE/view?usp=share_link)
 
 ---------------------------------------------------------------------------------------
-### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 時間表及線道表公佈
+### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
 
-主辦機構：沙田體育會（田總註冊屬會）
 
-比賽贊助：中興體育用品公司、寶礦力水特
- 
-協辦機構：新星田徑會
- 
-比賽日期：2022年12月26日
- 
-比賽地點：馬鞍山運動場
 
-**請留意：第一屆沙田冬季青少年田徑聯賽已改名為第一屆沙田學界田徑之王，賽事內容不變。*
-### [按此瀏覽 - 1226田徑之王(一) 時間表14-16_V1-2](https://drive.google.com/file/d/13rkkfxv-vT6Y0yp24ZJRF03HJ6LnI-mv/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 時間表中學, 11-13_V2](https://drive.google.com/file/d/1D2FGXgMGrnSpKXfBSriqiOMVoAm4fG_w/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_女子徑項V2](https://drive.google.com/file/d/1UVIQsM8AO8P5lG879ikDLi9LM8cKaOWf/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_女子田項V1](https://drive.google.com/file/d/1cGALXOGOukzY8VnlOH1sx1WR3TIlz-V1/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_男子徑項V2](https://drive.google.com/file/d/1cAYNRC4wdm5cIyDAmnawF5aSFQyRPXmr/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_男子田項V2](https://drive.google.com/file/d/1s5uEdkadg9thEbNbmmqwY0hVhG-bUxcA/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 線道表_接力V2](https://drive.google.com/file/d/1UiTqFduN0rCWXAF3yBWNh1b6FQNGXRww/view?usp=share_link)
-### [按此瀏覽 - 1226田徑之王(一) 賽事注意事項](https://drive.google.com/file/d/1hBovfn7Gp3gLYfcqrL9NnD2_ABhG_71P/view?usp=share_link)
+謝謝大家參加今日舉沙田體育會的「第一屆沙田學界田徑之王」第一站比賽，現附上今日成績，如需補領証書亦可登記：
 
-如有錯漏，請電郵至novasports852@gmail.com或Whatsapp至63683360或查詢。我們會集合所有需要更改的事項才會公佈更改的參賽名單，敬請耐心等候。
+### [按此瀏覽 - 1226證書補購](https://zfrmz.com/CKUlhUL2VfF8Qyijh2skk)
+
+### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
+
+
+第二站比賽在8/1/2023舉行，28/12/2022截止報名，更加設幼稚園組，報名從速！
+### [按此瀏覽 - 0108中小學組報名](https://forms.zohopublic.com/hknovasports852/form/08012023/formperma/LZ9bNOj1mWL2HJRWl6v7-1_L8RuFaz_8kMrWHnXECUs)
+### [按此瀏覽 - 0108幼兒組報名](https://forms.zohopublic.com/hknovasports852/form/080120232/formperma/7QQ_lK3-gJB6v0HQuxOebA8fVvzgOP7YArbw73hAatQk)
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
