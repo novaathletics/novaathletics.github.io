@@ -7,7 +7,7 @@ feature_text: |
 feature_image: "/images/banner1.jpg"
 ---
 ---------------------------------------------------------------------------------------
-### 「新星幼兒冬日田徑聯賽」參賽名單公佈
+### 「新星幼兒冬日田徑聯賽」時間表及線道表公佈
 #### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
 ### [按此瀏覽 - 0101冬日聯賽第二站_時間表V1](https://drive.google.com/file/d/1pQCKevTe8SBNYeidcOu2jepaPcPaSdWK/view?usp=share_link)
