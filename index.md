@@ -10,13 +10,15 @@ feature_image: "/images/banner1.jpg"
 ### 「新星幼兒冬日田徑聯賽」參賽名單公佈
 #### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
-### [按此瀏覽 - 0101冬日聯賽第二站_女子組參賽名單](https://drive.google.com/file/d/1eDlz6aOg3ZtP-zotdFAu20d-zpkrVgyT/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_男子組參賽名單](https://drive.google.com/file/d/1Q94qLHt5o4zU3oH_a_wSUO1rufVtfCPE/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_時間表V1](https://drive.google.com/file/d/1pQCKevTe8SBNYeidcOu2jepaPcPaSdWK/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_女子徑項V1](https://drive.google.com/file/d/1mRlfc8WbJ51mwWsp24490NYiqFJLUmjw/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_女子田項V1](https://drive.google.com/file/d/1RiQNw-r__CssNY6at-hjp0NDipbjIAIP/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_男子徑項V1](https://drive.google.com/file/d/1_wxP979fvpa8vLuOGrKBMOcr1fgxDFJR/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_男子田項V1](https://drive.google.com/file/d/1d-NhBid5HKfuXDt3EuDOxCWZkDXuV4WX/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_賽事注意事項](https://drive.google.com/file/d/1SIzWRGvmT2yfXwWfaUOfoqecCiZJN_uc/view?usp=share_link)
 
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
-
-
 
 謝謝大家參加今日舉沙田體育會的「第一屆沙田學界田徑之王」第一站比賽，現附上今日成績，如需補領証書亦可登記：
 
