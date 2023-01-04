@@ -11,6 +11,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此瀏覽 - 0108田徑之王(二)中學, 11-16時間表V1](https://drive.google.com/file/d/10LYxayLIFunQjU402e2Qa99zkTUTv36h/view?usp=share_link)
 #### [按此瀏覽 - 0108田徑之王(二)17-19時間表V1](https://drive.google.com/file/d/1nFk6GwWU93jBGzABoz9vCuMJq_RL1-Dc/view?usp=share_link)
+#### [按此瀏覽 - 0108田徑之王(二)_賽事注意事項](https://drive.google.com/file/d/1Fe9VGheakaU2VKm04qww96gMBeBikCW4/view?usp=share_link)
 #### [按此瀏覽 - 0108田徑之王(二)參賽名單_女子組V2](https://drive.google.com/file/d/18ITKxtIjQokWdMlRqjY54-3cTuq7N4KK/view?usp=share_link)
 #### [按此瀏覽 - 0108田徑之王(二)參賽名單_男子組V2](https://drive.google.com/file/d/1-v5yamnPkQLm9XSvvk-g6fIM-_Jog5uQ/view?usp=share_link)
 
