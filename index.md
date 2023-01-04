@@ -35,15 +35,12 @@ feature_image: "/images/banner1.jpg"
 #### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
 
 ---------------------------------------------------------------------------------------
-### 「新星幼兒冬日田徑聯賽」時間表及線道表公佈
+### 「新星幼兒冬日田徑聯賽」成績公佈
 #### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
-### [按此瀏覽 - 0101冬日聯賽第二站_時間表V2](https://drive.google.com/file/d/15vw4Ef0Xgo5_cZUUOAbi_VoWRDrTTce4/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_女子徑項V3](https://drive.google.com/file/d/1RKIBJi1aNAr9n7hcWQyLJjvnrM7757fV/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_女子田項V2](https://drive.google.com/file/d/1oXFxuo6teYYnMAtF3CqDuJk6QBbcp5rz/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_男子徑項V3](https://drive.google.com/file/d/1ZbeijyainWqDzcwl6GvTIHNGPQvDiBg8/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_男子田項V2](https://drive.google.com/file/d/1vhHO2uFIvoc10TCB70M2H80wW4B6BeAO/view?usp=share_link)
-### [按此瀏覽 - 0101冬日聯賽第二站_賽事注意事項](https://drive.google.com/file/d/1SIzWRGvmT2yfXwWfaUOfoqecCiZJN_uc/view?usp=share_link)
+### [按此瀏覽 - 0101冬日聯賽第二站_成績公佈](https://drive.google.com/drive/folders/1Y1gO2U1d0AguuRJXQLcg73rRU4a5Jyq2?usp=share_link)
+
+#### [按此補購證書 - 0101冬日聯賽第二站_補購證書](https://zfrmz.com/o7bcmpEe7XjfOuZLqmnk) 
 
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
@@ -54,7 +51,6 @@ feature_image: "/images/banner1.jpg"
 
 ### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
 
-
 第二站比賽在8/1/2023舉行，28/12/2022截止報名，更加設幼稚園組，報名從速！
 ### [按此瀏覽 - 0108中小學組報名](https://forms.zohopublic.com/hknovasports852/form/08012023/formperma/LZ9bNOj1mWL2HJRWl6v7-1_L8RuFaz_8kMrWHnXECUs)
 ### [按此瀏覽 - 0108幼兒組報名](https://forms.zohopublic.com/hknovasports852/form/080120232/formperma/7QQ_lK3-gJB6v0HQuxOebA8fVvzgOP7YArbw73hAatQk)
@@ -63,8 +59,7 @@ feature_image: "/images/banner1.jpg"
 ### 「新星幼兒冬日田徑聯賽」成績公佈
 #### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
 ### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
-
-#### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
+### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
 
 ---------------------------------------------------------------------------------------
 
