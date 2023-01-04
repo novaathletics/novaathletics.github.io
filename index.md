@@ -6,7 +6,7 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)參賽名單公佈
+### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表公佈
 #### 2023年1月8日（星期日）第二站：馬鞍山運動場
 
 #### [按此瀏覽 - 0108田徑之王(二)中學, 11-16時間表V1](https://drive.google.com/file/d/10LYxayLIFunQjU402e2Qa99zkTUTv36h/view?usp=share_link)
@@ -45,15 +45,9 @@ feature_image: "/images/banner1.jpg"
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
 
-謝謝大家參加今日舉沙田體育會的「第一屆沙田學界田徑之王」第一站比賽，現附上今日成績，如需補領証書亦可登記：
-
 ### [按此瀏覽 - 1226證書補購](https://zfrmz.com/CKUlhUL2VfF8Qyijh2skk)
 
 ### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
-
-第二站比賽在8/1/2023舉行，28/12/2022截止報名，更加設幼稚園組，報名從速！
-### [按此瀏覽 - 0108中小學組報名](https://forms.zohopublic.com/hknovasports852/form/08012023/formperma/LZ9bNOj1mWL2HJRWl6v7-1_L8RuFaz_8kMrWHnXECUs)
-### [按此瀏覽 - 0108幼兒組報名](https://forms.zohopublic.com/hknovasports852/form/080120232/formperma/7QQ_lK3-gJB6v0HQuxOebA8fVvzgOP7YArbw73hAatQk)
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
