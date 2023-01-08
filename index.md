@@ -9,16 +9,8 @@ feature_image: "/images/banner1.jpg"
 ### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
 #### 2023年1月8日（星期日）第二站：馬鞍山運動場
 
-#### [按此瀏覽 - 0108田徑之王(二)17-19時間表V2](https://drive.google.com/file/d/1rKomGGrk_twZijZNtf0cJX-7-oIUv-il/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)中學, 11-16時間表V1](https://drive.google.com/file/d/1SVj71fahiyLU4yOQNTNuYRCq_Ms6Qdez/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_中學, 11-16女子徑項V1](https://drive.google.com/file/d/1VOX69xNK9mUP7VGfb0aPHICwDXD-XEvx/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_中學, 11-16女子田項V1](https://drive.google.com/file/d/1SUu7XTOCehb99TN09KPBxmBAY6hew8tt/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_中學, 11-16男子徑項V1](https://drive.google.com/file/d/16VDWla41DjHdfsuzTVQEocknYP3tSvVk/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_中學, 11-16男子田項V1](https://drive.google.com/file/d/1QzIfnZfCoi5Gx-nsiofKMsXjJEVDs2uf/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_17-19男女田項V1](https://drive.google.com/file/d/1lVtjqv1AFI9rImmOLjSWZv1S8mLC3Hf0/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)線道表_17-19男女徑項V1](https://drive.google.com/file/d/1lRjI0Ao773II_NekQTck60iJqw16RBfU/view?usp=share_link)
-#### [按此瀏覽 - 0108田徑之王(二)_賽事注意事項V2](https://drive.google.com/file/d/1rTvM9l6oJDjpNy1XCctiPKhdiYD5BCcU/view?usp=share_link)
-
+### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
+### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
 
 ---------------------------------------------------------------------------------------
 「新星春季幼兒田徑錦標賽」
