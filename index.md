@@ -6,14 +6,24 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
-#### 2023年1月8日（星期日）第二站：馬鞍山運動場
+### 「第一屆新星精英田徑錦標賽」（10-04-2023）
 
-### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
-### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
+賽事由「覺者緊急救難基金」主辦，本會協辦。
+在全港最理想做成績的灣仔運動場舉行，賽事採取電子計時，歡迎幼稚園及小學同學參加。
 
+「覺者緊急救難基金」由一位有心跑友開立，主要以扶助有需要人士、支持弘揚善業為目標，包括派發慈善福袋，賑濟貧病，派飯予露宿者，賽事扣除成本、開支及比賽行政費後會捐入基金運作。
+
+「新星田徑會」由葉啟德教練創立，除培訓精英外，亦希望協助機構多辦普及價錢的田徑比賽，避免大家捱貴賽，亦可讓跑友更多賽事日程選擇。
+
+比賽日期：10/4/2023（復活節假期）
+
+地點：灣仔運動場電子計時
+
+年齡：2011-2019
+
+### [按此報名 - 「第一屆新星精英田徑錦標賽」（10-04-2023）](https://forms.zohopublic.com/hknovasports852/form/1042023/formperma/VGy9kdkvmpi0SGntT1jDaNkEkNWWJlWL0BTUFOUgG-M)
 ---------------------------------------------------------------------------------------
-「新星春季幼兒田徑錦標賽」
+### 「新星春季幼兒田徑錦標賽」（12-02-2023）
 
 新春好開始，春日比賽樂趣多😎🤟🏻
 幼兒透過田徑比賽，可以學習自我挑戰精神，提升競賽能力。
@@ -22,20 +32,26 @@ feature_image: "/images/banner1.jpg"
 主辦機構 : 新星田徑會
 
 比賽日期 : 2023年2月12日（星期日）
- 
+
 比賽時間：08:30 - 14:00
- 
+
 比賽地點：YMCA烏溪沙青年新村
- 
+
 組別：男子及女子（2014、2015、2016、2017、2018及2019）運動員不可越級報名
 
-#### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
+### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
+---------------------------------------------------------------------------------------
+### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
+#### 2023年1月8日（星期日）第二站：馬鞍山運動場
+
+### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
+### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
 #### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
-### [按此瀏覽 - 0101冬日聯賽第二站_成績公佈](https://drive.google.com/drive/folders/1Y1gO2U1d0AguuRJXQLcg73rRU4a5Jyq2?usp=share_link)
+#### [按此瀏覽 - 0101冬日聯賽第二站_成績公佈](https://drive.google.com/drive/folders/1Y1gO2U1d0AguuRJXQLcg73rRU4a5Jyq2?usp=share_link)
 
 #### [按此補購證書 - 0101冬日聯賽第二站_補購證書](https://zfrmz.com/o7bcmpEe7XjfOuZLqmnk) 
 
