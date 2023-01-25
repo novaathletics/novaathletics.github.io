@@ -17,7 +17,7 @@ feature_image: "/images/banner1.jpg"
 
 比賽日期：10/4/2023（復活節假期）
 
-地點：灣仔運動場電子計時
+地點：灣仔運動場（電子計時）
 
 年齡：2011-2019
 
@@ -43,11 +43,36 @@ feature_image: "/images/banner1.jpg"
 
 ### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
 ---------------------------------------------------------------------------------------
+### 「全港小學學界賽前測試」（12/2/2023）
+
+賽事為三月舉行的小學區際學界的代表而設，測試採取電子計時，項目為60、100m 、歡迎各界小四至小六同學來「烏溪沙青年新村」參加，費用$120（包証書），不設奬項。
+
+### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://zfrmz.com/5niUWrKhwtq97cJAq8fU)
+---------------------------------------------------------------------------------------
+### 「沙田體育會田徑專項訓練班」
+
+一個推廣田徑運動及難得的專項跳遠訓練班，收費普級化，全期十堂$1000，教練經驗豐富，歡迎小學至初中同學參加
+### [按此報名 - 「沙田體育會田徑專項訓練班」](https://forms.zohopublic.com/hknovasports852/form/2022111/formperma/HGa-91QrxUa0dqjr7ewAwZD6ulJDnFTWRxZKrhiEuxc )
+
+---------------------------------------------------------------------------------------
+### 「新星田徑會新學年會員大招募」恆常班
+
+疫情漸退，沉靜了的學界比賽季賽即將展開，本會成立一週年，培訓出不少精英，發掘田徑新星，歡迎有興趣學跑步、求突破的小朋友入會參加。訓練以學習正確跑步技術為主，循序漸進，以學界比賽、分齡賽為目標，長線培訓學員爭取入港隊，代表香港出賽的機會。教練多為前港隊或精英運動員，課程由總教練葉啟德策劃安排，於全港各區也有訓練點，歡迎幼兒、兒童及少年報名參加訓練班。
+
+### [按此報名：我想參加訓練!](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
+
+![](/images/new.png)
+
+![](/images/p.2.png)
+
+![](/images/3.png)
+
+---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
 #### 2023年1月8日（星期日）第二站：馬鞍山運動場
 
-### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
-### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
+#### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
+#### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
@@ -60,29 +85,15 @@ feature_image: "/images/banner1.jpg"
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
 
-### [按此瀏覽 - 1226證書補購](https://zfrmz.com/CKUlhUL2VfF8Qyijh2skk)
+#### [按此瀏覽 - 1226證書補購](https://zfrmz.com/CKUlhUL2VfF8Qyijh2skk)
 
-### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
+#### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
 
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
 #### 2022年12月4日（星期日）第一站：YMCA烏溪沙青少年新村田徑場 
-### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
-### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
-
----------------------------------------------------------------------------------------
-
-### 「新星田徑會新學年會員大招募」恆常班
-
-疫情漸退，沉靜了的學界比賽季賽即將展開，本會成立一週年，培訓出不少精英，發掘田徑新星，歡迎有興趣學跑步、求突破的小朋友入會參加。訓練以學習正確跑步技術為主，循序漸進，以學界比賽、分齡賽為目標，長線培訓學員爭取入港隊，代表香港出賽的機會。教練多為前港隊或精英運動員，課程由總教練葉啟德策劃安排，於全港各區也有訓練點，歡迎幼兒、兒童及少年報名參加訓練班。
-
-#### [按此報名：我想參加訓練!](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform)
-
-![](/images/new.png)
-
-![](/images/p.2.png)
-
-![](/images/3.png)
+#### [按此瀏覽 - 1204新星冬日聯賽第一站_成績公佈](https://drive.google.com/drive/folders/1vH3ssz6OMG8Gkn1GMbilFoL6TWjZJVcA?usp=share_link)
+#### [按此補購證書 - 1204新星冬日聯賽第一站_補購證書](https://forms.zohopublic.com/hknovasports852/form/41220221/formperma/s2itCDCkjPjbAMigptcnCZHOjiV6o1ecL4Y731YC23E)
 
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田秋季兒童田徑錦標賽」
@@ -96,17 +107,16 @@ feature_image: "/images/banner1.jpg"
 
 ---------------------------------------------------------------------------------------
 ### 沙田慶回歸兒童田徑錦標賽 2022 
-
 #### 9月12日 馬鞍山運動場
  
-##### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing)
+#### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1tWt3CMyD3c5Cpo3XLheEt82CZLyWAvjI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 ### 第一屆新星週年田徑錦標賽
 
 #### 9月4日 YMCA烏溪沙青年新村 
 
-##### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
+#### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/1sS6c8Ys7cMlyjmcAQiND05GWLFbpuxYI?usp=sharing)
 
 ---------------------------------------------------------------------------------------
 
