@@ -28,7 +28,7 @@ feature_image: "/images/banner1.jpg"
 
 組別：幼兒組（2017-2019）、 小學組（2011-2016）
 
-### [按此報名 - 「沙田復活節田徑大獎賽2023(Day One)」（05-04-2023)](https://zfrmz.com/6ABgJq3miLiFsTODaBIC)
+### [按此報名 - 「沙田復活節田徑大獎賽2023(Day One)」（05-04-2023)](https://forms.zohopublic.com/hknovasports852/form/Day1542023/formperma/Ij5SATqmcsQDbzhew0iX2nw5hioD7XAQXIadEEuwr5g)
 ---------------------------------------------------------------------------------------
 ### 「沙田復活節田徑大獎賽2023(Day Two)」（10-04-2023）中學、公開及常青組
 
@@ -41,7 +41,7 @@ feature_image: "/images/banner1.jpg"
 組別：
 2004-2010（中學ABC組）、1989-2003（公開組）、1988-1938（常青組）
 
-### [按此報名 - 「沙田復活節田徑大獎賽2023(Day Two)」（10-04-2023）](https://zfrmz.com/WnZJGQ4E3nMevYsfvM4Z)
+### [按此報名 - 「沙田復活節田徑大獎賽2023(Day Two)」（10-04-2023）](https://forms.zohopublic.com/hknovasports852/form/Day210420231/formperma/n3YIdUolYZ7f9gz2ETg7gc_Qzf7cYNxNU8BfmwG6C1U)
 ---------------------------------------------------------------------------------------
 
 ### 「新星田徑會新學年會員大招募」恆常班
