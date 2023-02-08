@@ -9,13 +9,20 @@ feature_image: "/images/banner1.jpg"
 ### 「新星春季幼兒田徑錦標賽」（12-02-2023）時間表及線道表公佈
 ### 地點：YMCA烏溪沙青少年新村田徑場
 
-#### [按此瀏覽 - 新星春季_時間表V1](https://drive.google.com/file/d/1ruhyOpnM7NAR6dVhGnsgx2bC1kjocf_2/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_女子徑項線道表V1](https://drive.google.com/file/d/1PJzi5Cd-nFpJ3rtWG2yllu2fawAckGRB/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_女子田項線道表V1](https://drive.google.com/file/d/1QUCn0YMWdDFVBRktVotIgRTTagF-8ZJT/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_男子徑項線道表V1](https://drive.google.com/file/d/1lwReJowpt1dqsLiChLp7jfgxjMCAlr4S/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_男子田項線道表V1](https://drive.google.com/file/d/1ww0y02EzvfhN16BjZEO7S40a9cn4kIC7/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_賽事地圖V1](https://drive.google.com/file/d/1dZsvMBlMIznbdsRV6MKqqVp10gJUggZz/view?usp=share_link)
-#### [按此瀏覽 - 新星春季_賽事注意事項V1](https://drive.google.com/file/d/1C2GDzy1-xHosXCcxFbgM4OWyoOP00AOZ/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_時間表](https://drive.google.com/file/d/1ruhyOpnM7NAR6dVhGnsgx2bC1kjocf_2/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_女子徑項線道表](https://drive.google.com/file/d/1PJzi5Cd-nFpJ3rtWG2yllu2fawAckGRB/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_女子田項線道表](https://drive.google.com/file/d/1QUCn0YMWdDFVBRktVotIgRTTagF-8ZJT/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_男子徑項線道表](https://drive.google.com/file/d/1lwReJowpt1dqsLiChLp7jfgxjMCAlr4S/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_男子田項線道表](https://drive.google.com/file/d/1ww0y02EzvfhN16BjZEO7S40a9cn4kIC7/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_賽事地圖](https://drive.google.com/file/d/1dZsvMBlMIznbdsRV6MKqqVp10gJUggZz/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_賽事注意事項](https://drive.google.com/file/d/1C2GDzy1-xHosXCcxFbgM4OWyoOP00AOZ/view?usp=share_link)
+---------------------------------------------------------------------------------------
+### 「全港小學學界賽前測試」（12/2/2023）
+### 地點：YMCA烏溪沙青少年新村田徑場
+
+#### [按此瀏覽 - 學界賽前測試_時間表](https://drive.google.com/file/d/1kWzuGH0nULPdOVlo_M_VgzW64I1JP5FA/view?usp=share_link)
+#### [按此瀏覽 - 學界賽前測試_賽事地圖](https://drive.google.com/file/d/1d0lR1JqH2KaoFlFIj9SDmpaRwvlDJXj2/view?usp=share_link)
+#### [按此瀏覽 - 學界賽前測試_賽事注意事項](https://drive.google.com/file/d/1FqDSK8mKOAaqUNIRgFLamYl_foQe5ihB/view?usp=share_link)
 ---------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」（10-04-2023）
 
@@ -90,12 +97,6 @@ feature_image: "/images/banner1.jpg"
 組別：男子及女子（2014、2015、2016、2017、2018及2019）運動員不可越級報名
 
 ### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
----------------------------------------------------------------------------------------
-### 「全港小學學界賽前測試」（12/2/2023）
-
-賽事為三月舉行的小學區際學界的代表而設，測試採取電子計時，項目為60、100m 、歡迎各界小四至小六同學來「烏溪沙青年新村」參加，費用$120（包証書），不設奬項。
-
-### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://zfrmz.com/5niUWrKhwtq97cJAq8fU)
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
 #### 2023年1月8日（星期日）第二站：馬鞍山運動場
