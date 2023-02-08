@@ -6,6 +6,16 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 「新星春季幼兒田徑錦標賽」（12-02-2023）時間表及線道表公佈
+### 地點：YMCA烏溪沙青少年新村田徑場
+
+#### [按此瀏覽 - 新星春季_女子徑項線道表V1](https://drive.google.com/file/d/1PJzi5Cd-nFpJ3rtWG2yllu2fawAckGRB/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_女子田項線道表V1](https://drive.google.com/file/d/1QUCn0YMWdDFVBRktVotIgRTTagF-8ZJT/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_男子徑項線道表V1](https://drive.google.com/file/d/1lwReJowpt1dqsLiChLp7jfgxjMCAlr4S/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_男子田項線道表V1](https://drive.google.com/file/d/1ww0y02EzvfhN16BjZEO7S40a9cn4kIC7/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_賽事地圖V1](https://drive.google.com/file/d/1dotzb-O6XMWmcAx9AaWe9xXQS2-Ybrlk/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_賽事注意事項V1](https://drive.google.com/file/d/1C2GDzy1-xHosXCcxFbgM4OWyoOP00AOZ/view?usp=share_link)
+---------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」（10-04-2023）
 
 比賽日期：10/4/2023（復活節假期）
