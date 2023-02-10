@@ -9,7 +9,7 @@ feature_image: "/images/banner1.jpg"
 ### 「新星春季幼兒田徑錦標賽」（12-02-2023）時間表及線道表公佈
 ### 地點：YMCA烏溪沙青少年新村田徑場
 
-#### [按此瀏覽 - 新星春季_時間表](https://drive.google.com/file/d/1ruhyOpnM7NAR6dVhGnsgx2bC1kjocf_2/view?usp=share_link)
+#### [按此瀏覽 - 新星春季_時間表](https://drive.google.com/file/d/1c8iW1U9rI6cAjPLKcBluWYLzbd7mnWJG/view?usp=share_link)
 #### [按此瀏覽 - 新星春季_女子徑項線道表](https://drive.google.com/file/d/1PJzi5Cd-nFpJ3rtWG2yllu2fawAckGRB/view?usp=share_link)
 #### [按此瀏覽 - 新星春季_女子田項線道表](https://drive.google.com/file/d/1QUCn0YMWdDFVBRktVotIgRTTagF-8ZJT/view?usp=share_link)
 #### [按此瀏覽 - 新星春季_男子徑項線道表](https://drive.google.com/file/d/1lwReJowpt1dqsLiChLp7jfgxjMCAlr4S/view?usp=share_link)
@@ -20,9 +20,11 @@ feature_image: "/images/banner1.jpg"
 ### 「全港小學學界賽前測試」（12/2/2023）
 ### 地點：YMCA烏溪沙青少年新村田徑場
 
-#### [按此瀏覽 - 學界賽前測試_時間表](https://drive.google.com/file/d/1kWzuGH0nULPdOVlo_M_VgzW64I1JP5FA/view?usp=share_link)
+#### [按此瀏覽 - 學界賽前測試_時間表](https://drive.google.com/file/d/1c8iW1U9rI6cAjPLKcBluWYLzbd7mnWJG/view?usp=share_link)
 #### [按此瀏覽 - 學界賽前測試_賽事地圖](https://drive.google.com/file/d/1d0lR1JqH2KaoFlFIj9SDmpaRwvlDJXj2/view?usp=share_link)
 #### [按此瀏覽 - 學界賽前測試_賽事注意事項](https://drive.google.com/file/d/1FqDSK8mKOAaqUNIRgFLamYl_foQe5ihB/view?usp=share_link)
+#### [按此瀏覽 - 學界賽前測試_男子徑項線道表](https://drive.google.com/file/d/1S2T4VpDzdg-EqESLENNRhB67M87i8_gA/view?usp=share_link)
+#### [按此瀏覽 - 學界賽前測試_女子徑項線道表](https://drive.google.com/file/d/19bXyUj3HJV8--OjyKnDEYr8ZGZp6uWhX/view?usp=share_link)
 ---------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」（10-04-2023）
 
