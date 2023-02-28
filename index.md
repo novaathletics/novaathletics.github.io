@@ -84,7 +84,7 @@ feature_image: "/images/banner1.jpg"
 
 ![](/images/1.jpg)
 
-![](/images/p.2.png)
+![](/images/2.jpg)
 
 ![](/images/3.png)
 
