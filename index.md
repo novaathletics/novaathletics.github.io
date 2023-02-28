@@ -6,20 +6,6 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 「新星春季幼兒田徑錦標賽」（12-02-2023）時間表及線道表公佈
-### 地點：YMCA烏溪沙青少年新村田徑場
-
-#### [按此瀏覽 - 新星春季幼兒田徑錦標賽(12-02-2023) 全場總冠軍](https://drive.google.com/file/d/172llR-kuQNys0EFqi--BVuylWmHpukeD/view?usp=share_link)
----------------------------------------------------------------------------------------
-### 「全港小學學界賽前測試」（12/2/2023）
-### 地點：YMCA烏溪沙青少年新村田徑場
-
-#### [按此瀏覽 - 學界賽前測試_時間表](https://drive.google.com/file/d/1c8iW1U9rI6cAjPLKcBluWYLzbd7mnWJG/view?usp=share_link)
-#### [按此瀏覽 - 學界賽前測試_賽事地圖](https://drive.google.com/file/d/1d0lR1JqH2KaoFlFIj9SDmpaRwvlDJXj2/view?usp=share_link)
-#### [按此瀏覽 - 學界賽前測試_賽事注意事項](https://drive.google.com/file/d/1FqDSK8mKOAaqUNIRgFLamYl_foQe5ihB/view?usp=share_link)
-#### [按此瀏覽 - 學界賽前測試_男子徑項線道表](https://drive.google.com/file/d/1S2T4VpDzdg-EqESLENNRhB67M87i8_gA/view?usp=share_link)
-#### [按此瀏覽 - 學界賽前測試_女子徑項線道表](https://drive.google.com/file/d/19bXyUj3HJV8--OjyKnDEYr8ZGZp6uWhX/view?usp=share_link)
----------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」（10-04-2023）
 
 比賽日期：10/4/2023（復活節假期）
@@ -94,43 +80,29 @@ feature_image: "/images/banner1.jpg"
 一個推廣田徑運動及難得的專項跳遠訓練班，收費普級化，全期十堂$1000，教練經驗豐富，歡迎小學至初中同學參加
 ### [按此報名 - 「沙田體育會田徑專項訓練班」](https://forms.zohopublic.com/hknovasports852/form/2022111/formperma/HGa-91QrxUa0dqjr7ewAwZD6ulJDnFTWRxZKrhiEuxc )
 ---------------------------------------------------------------------------------------
-### 「新星春季幼兒田徑錦標賽」（12-02-2023）
+### 「新星春季幼兒田徑錦標賽」/「全港小學學界賽前測試」（12-02-2023）成績公佈
+### 地點：YMCA烏溪沙青少年新村田徑場
 
-新春好開始，春日比賽樂趣多😎🤟🏻
-幼兒透過田徑比賽，可以學習自我挑戰精神，提升競賽能力。
-賽事在烏溪沙青年新村田徑埸舉行，採取「半電子計時」，跑項分初賽決賽，讓大家盡展所長，定期測試一下進度成績。
-
-主辦機構 : 新星田徑會
-
-比賽日期 : 2023年2月12日（星期日）
-
-比賽時間：08:30 - 14:00
-
-比賽地點：YMCA烏溪沙青年新村
-
-組別：男子及女子（2014、2015、2016、2017、2018及2019）運動員不可越級報名
-
-### [按此報名 - 「新星春季幼兒田徑錦標賽」（12-02-2023）](https://forms.zohopublic.com/hknovasports852/form/202312022023/formperma/1dhNEaGjGWJhQ9IkkBop7tRZdrxyA7Wub-Cm67zW270)
----------------------------------------------------------------------------------------
-### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)時間表及線道表公佈
-#### 2023年1月8日（星期日）第二站：馬鞍山運動場
-
-#### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
-#### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
-
+#### [按此瀏覽 - 新星春季幼兒田徑錦標賽(12-02-2023) 全場總冠軍](https://drive.google.com/file/d/172llR-kuQNys0EFqi--BVuylWmHpukeD/view?usp=share_link)
+#### [按此瀏覽 - 新星春季幼兒田徑錦標賽/ 全港小學學界賽前測試(12-02-2023) 成績公佈](https://drive.google.com/drive/mobile/folders/1uBUjQlfPKnaHUKhi5eI1u48vZTnRLz5G)
+#### [按此瀏覽 - 新星春季幼兒田徑錦標賽/ 全港小學學界賽前測試(12-02-2023) 聖心影攝影學會Dickson義務拍照](https://photos.google.com/share/AF1QipO-mI_I1j_KsG3GhdbEGf9TAX9SobNO4yP3bUEPEBO_tJuPQhQAdx4Leqgb2TVTXA?pli=1&key=U1dXN0R4VGpvQW9zSkhSdVM3bzhyZ05VX2RJTUR3)
 ---------------------------------------------------------------------------------------
 ### 「新星幼兒冬日田徑聯賽」成績公佈
 #### 2023年1月1日（星期日）第二站：YMCA佐敦京士柏百週年紀念中心有蓋體育場 
 
 #### [按此瀏覽 - 0101冬日聯賽第二站_成績公佈](https://drive.google.com/drive/folders/1Y1gO2U1d0AguuRJXQLcg73rRU4a5Jyq2?usp=share_link)
-
 #### [按此補購證書 - 0101冬日聯賽第二站_補購證書](https://zfrmz.com/o7bcmpEe7XjfOuZLqmnk) 
+
+--------------------------------------------------------------------------------------
+### 「第一屆沙田學界田徑之王（第二站）」(08-01-2023)成績公佈
+
+#### [按此瀏覽 - 0108田徑之王(二)成績](https://drive.google.com/drive/folders/1AESnQAi51vdWcLJzhzMTQIoCEQCL3PHc)
+#### [按此瀏覽 - 0108田徑之王(二)補購證書](https://zfrmz.com/HYOJ9IG7oeO2ILd2UQw1)
 
 ---------------------------------------------------------------------------------------
 ### 「第一屆沙田學界田徑之王（第一站)」(26-12-2022) 成績公佈
 
 #### [按此瀏覽 - 1226證書補購](https://zfrmz.com/CKUlhUL2VfF8Qyijh2skk)
-
 #### [按此瀏覽 - 1226成績](https://drive.google.com/drive/folders/1TfMGvUbis8mxtsShVg_30DdfjURIhmiD)
 
 ---------------------------------------------------------------------------------------
@@ -143,7 +115,6 @@ feature_image: "/images/banner1.jpg"
 ### 「第一屆沙田秋季兒童田徑錦標賽」
 
 #### 2022年10月4日 馬鞍山運動場
-
 #### [按此瀏覽：賽事成績公佈](https://drive.google.com/drive/folders/109yS_JjKuu_EWDsWp9hrmWNBKq3YkKvu?usp=sharing)
 
 ***多謝鍾曉林家長義務為大家拍攝「沙田秋季田徑賽」比賽花絮照片😎👏👏👏 
