@@ -6,7 +6,17 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 「第一屆新星精英田徑錦標賽」（10-04-2023）
+### 新星田徑免費試堂(2023年3月)
+
+會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
+
+### [按此報名：我想免費試堂(2023年3月)!](https://forms.zohopublic.com/hknovasports852/form/20233/formperma/TyJGydHV7ISJ2vnA2obmr_tVVkm_rS-G8FZxL4ePQIM)
+
+![](/images/trial_0323_timetable.jpg)
+
+
+--------------------------------------------------------------------------------------
+### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）
 
 比賽日期：10/4/2023（復活節假期）
 
@@ -14,8 +24,19 @@ feature_image: "/images/banner1.jpg"
 
 年齡：2011-2019
 
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」（10-04-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/1042023/formperma/VGy9kdkvmpi0SGntT1jDaNkEkNWWJlWL0BTUFOUgG-M)
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」（10-04-2023）4 x 100 接力賽報名表](https://zfrmz.com/y7zpLzhMJNpQq3Ni5Cu1)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/1042023/formperma/VGy9kdkvmpi0SGntT1jDaNkEkNWWJlWL0BTUFOUgG-M)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）4 x 100 接力賽報名表](https://zfrmz.com/y7zpLzhMJNpQq3Ni5Cu1)
+--------------------------------------------------------------------------------------
+### 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）
+
+比賽日期：26/5/2023(佛誕假期)
+
+地點：灣仔運動場（電子計時）
+
+年齡：2011-2019
+
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/26052023/formperma/j0Xi1Gc3kcZ5zx_CBZaJIkqErPpSKVthvuEcb_NEIVo)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）4 x 100 接力賽報名表](https://zfrmz.com/PTIJHaR4VygBdwyX3DCp)
 
 --------------------------------------------------------------------------------------
 ### 「新星中長跑訓練課程」
