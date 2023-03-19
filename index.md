@@ -6,6 +6,28 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分埸線道公佈
+
+比賽日期：10/4/2023（復活節假期）
+
+地點：灣仔運動場（電子計時）
+
+年齡：2011-2019
+
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表11-16_V1](https://drive.google.com/file/d/1DHq21cqxezFf2wfm0Xg9IrE234MAmyek/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表17-19_V1](https://drive.google.com/file/d/1nkHMPR0wagN_eKXvZ_tHmje0W2wE0Si9/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）賽事注意事項.pdf](https://drive.google.com/file/d/1YEUKjha-jyy-54_J4apnUYa0pyCPMX3D/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子徑項線道表11-16_V1](https://drive.google.com/file/d/16bvmhL5XCaW_H3_oFCJ4AwQcGGJ6xBqO/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子徑項線道表17-19_V1](https://drive.google.com/file/d/16bvmhL5XCaW_H3_oFCJ4AwQcGGJ6xBqO/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子田項線道表11-16_V1](https://drive.google.com/file/d/178f9PKSc_vCivSPfycciXR0eF8yDoT2s/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子田項線道表17-19_V1](https://drive.google.com/file/d/1K0Igau72BMV9Ji4vnVRAe59yJM1zCp6E/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子徑項線道表11-16_V1](https://drive.google.com/file/d/11x-taZqyyfcyQq8Q3ETWosKQ4H8i9XYs/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子徑項線道表17-19_V1](https://drive.google.com/file/d/1dPupgTaWICH_jzIZsrQETcwFuLiVGccj/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表11-16_V1](https://drive.google.com/file/d/1b32ZPhbA3Yc-uNR5KwE23gwK9Y67Jzq2/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表17-19_V1](https://drive.google.com/file/d/1zVBx4ifrt46Jr2kKa1L338HzvLXPvqAH/view?usp=share_link)
+
+--------------------------------------------------------------------------------------
+
 ### 新星田徑免費試堂(2023年3月)
 
 會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
@@ -14,19 +36,6 @@ feature_image: "/images/banner1.jpg"
 
 ![](/images/trial_0323_timetable.jpg)
 
-
---------------------------------------------------------------------------------------
-### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）參賽名單公佈
-
-比賽日期：10/4/2023（復活節假期）
-
-地點：灣仔運動場（電子計時）
-
-年齡：2011-2019
-
-#### [按此瀏覽 - 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）參賽名單_女子組](https://drive.google.com/file/d/1XyGqLeL-7Vg7bZDtPs5CF-btZdyQkfqw/view?usp=share_link)
-
-#### [按此瀏覽 - 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）參賽名單_男子組](https://drive.google.com/file/d/1-kBoeCqu3rSRFbhbx03F5ksCGnSUMMSd/view?usp=share_link)
 
 --------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）
@@ -57,6 +66,7 @@ feature_image: "/images/banner1.jpg"
 費用：$880（包教材與證書）
 
 查詢及報名：WhatsApp 60661322
+
 --------------------------------------------------------------------------------------
 ### 「沙田復活節田徑大獎賽2023(Day One)」（05-04-2023) 幼兒及小學組
 
