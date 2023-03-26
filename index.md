@@ -37,7 +37,8 @@ feature_image: "/images/banner1.jpg"
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子徑項線道表17-19_V2](https://drive.google.com/file/d/1NlNNuwhTTfLs62xKqd9HNOlIvDf8c7Bv/view?usp=share_link)
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表11-16_V1](https://drive.google.com/file/d/1b32ZPhbA3Yc-uNR5KwE23gwK9Y67Jzq2/view?usp=share_link)
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表17-19_V1](https://drive.google.com/file/d/1zVBx4ifrt46Jr2kKa1L338HzvLXPvqAH/view?usp=share_link)
-
+#### [按此瀏覽 - 新星聯賽1004_女子接力線道表_V1](https://drive.google.com/file/d/1Q_bdnpXbppspkYmMwDgL59_6rhbpi90M/view?usp=share_link)
+#### [按此瀏覽 - 新星聯賽1004_男子接力線道表_V1](https://drive.google.com/file/d/1s_EWbpogt8kvhaonRZeuNv8oVdK0X9qZ/view?usp=share_link)
 --------------------------------------------------------------------------------------
 
 ### 新星田徑免費試堂(2023年3月)
