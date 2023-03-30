@@ -6,7 +6,7 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
-### 「沙田復活節田徑大獎賽2023(Day One)」（05-04-2023) 幼兒及小學組 參賽名單公佈
+### 「沙田復活節田徑大獎賽2023(Day One)」（05-04-2023) 幼兒及小學組 比賽時間表及分場線道公佈
 
 日期：2023年4月5日（清明節）
 
@@ -14,8 +14,18 @@ feature_image: "/images/banner1.jpg"
 
 地點：馬鞍山運動場（電子計時）
 
-#### [按此瀏覽 - 沙田復活田徑大獎賽2023 第一站（05/04/2023)女子組](https://drive.google.com/file/d/1eCAUxdxIJBNY4O8lAfj1DtLIRxhxvm8x/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活田徑大獎賽2023 第一站（05/04/2023)男子組](https://drive.google.com/file/d/1jSqXmk-g0zXgNNklrlswX1Ttiy8QKI3F/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_時間表11-16_V1](https://drive.google.com/file/d/17zts7CSGjCe9VC7D5WpDlo2lWDQD6JBq/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_時間表17-19_V1](https://drive.google.com/file/d/1NTo3Jg7mDaKUy06u1InfUXGGHZhRokhW/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_賽事注意事項](https://drive.google.com/file/d/1DnR4XoyqILag9urGZOqbObzgFmd8dv1b/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_男子田項線道表17-19_V1](https://drive.google.com/file/d/1UhiVnS833HorAu80iYFxra7DNh1ENLTF/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_男子田項線道表11-16_V1](https://drive.google.com/file/d/1vBZvgGDwypNdCmpSuh0-S1RlcpIUrAmW/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_男子徑項線道表17-19_V1](https://drive.google.com/file/d/1e6L1LY1Zl2GuEPPxFFxUz9y4qcTuydH5/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_男子徑項線道表11-16_V1](https://drive.google.com/file/d/1O6s-yI8MkFdys9fR8yN5RGtigt2_WTCK/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_女子田項線道表17-19_V1](https://drive.google.com/file/d/1aJ0gmr_Thvi0h0zSNy_bbh8tgAmQFNpk/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_女子田項線道表11-16_V1](https://drive.google.com/file/d/1NC9R8E295kreFvQcGf-9sbtSRkBR3cDM/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_女子徑項線道表17-19_V1](https://drive.google.com/file/d/1fl2g37vrcv3kWo3CtWqMrBZn-P5AOL4u/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_女子徑項線道表11-16_V1](https://drive.google.com/file/d/1G6ibYmwDn7h8BYObuVJiPqFMA4G33r83/view?usp=share_link)
+#### [按此瀏覽 - 沙田復活Day1_接力線道表_V1](https://drive.google.com/file/d/16jUs_HN2sgNfaSTV49boqr2tS3q2uB_d/view?usp=share_link)
 
 --------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分場線道公佈
