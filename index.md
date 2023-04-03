@@ -19,18 +19,7 @@ feature_image: "/images/banner1.jpg"
 
 地點：馬鞍山運動場（電子計時）
 
-#### [按此瀏覽 - 沙田復活Day1_時間表11-16_V1](https://drive.google.com/file/d/17zts7CSGjCe9VC7D5WpDlo2lWDQD6JBq/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_時間表17-19_V1](https://drive.google.com/file/d/1NTo3Jg7mDaKUy06u1InfUXGGHZhRokhW/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_賽事注意事項](https://drive.google.com/file/d/1DnR4XoyqILag9urGZOqbObzgFmd8dv1b/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_男子田項線道表17-19_V1](https://drive.google.com/file/d/1UhiVnS833HorAu80iYFxra7DNh1ENLTF/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_男子田項線道表11-16_V1](https://drive.google.com/file/d/1vBZvgGDwypNdCmpSuh0-S1RlcpIUrAmW/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_男子徑項線道表17-19_V1](https://drive.google.com/file/d/1e6L1LY1Zl2GuEPPxFFxUz9y4qcTuydH5/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_男子徑項線道表11-16_V1](https://drive.google.com/file/d/1O6s-yI8MkFdys9fR8yN5RGtigt2_WTCK/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_女子田項線道表17-19_V1](https://drive.google.com/file/d/1aJ0gmr_Thvi0h0zSNy_bbh8tgAmQFNpk/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_女子田項線道表11-16_V1](https://drive.google.com/file/d/1NC9R8E295kreFvQcGf-9sbtSRkBR3cDM/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_女子徑項線道表17-19_V1](https://drive.google.com/file/d/1fl2g37vrcv3kWo3CtWqMrBZn-P5AOL4u/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_女子徑項線道表11-16_V2](https://drive.google.com/file/d/1RaJwUGyCfOVAHSEs_sqgYVRbwHtSXefk/view?usp=share_link)
-#### [按此瀏覽 - 沙田復活Day1_接力線道表_V1](https://drive.google.com/file/d/16jUs_HN2sgNfaSTV49boqr2tS3q2uB_d/view?usp=share_link)
+#### [按此瀏覽 - 0405沙田復活田徑大獎賽2023第一站 - 時間表及分場線道](https://drive.google.com/drive/folders/19Sf1ECxSwDrAqFhmfprD-scom7NS6jEb?usp=share_link)
 
 --------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分場線道公佈
@@ -41,19 +30,8 @@ feature_image: "/images/banner1.jpg"
 
 年齡：2011-2019
 
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表11-16_V2](https://drive.google.com/file/d/16hcIzdWU3t4TfzVSNuWwt8dLJXBtZAbV/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表17-19_V2](https://drive.google.com/file/d/1nkHMPR0wagN_eKXvZ_tHmje0W2wE0Si9/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）賽事注意事項.pdf](https://drive.google.com/file/d/1YEUKjha-jyy-54_J4apnUYa0pyCPMX3D/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子徑項線道表11-16_V1](https://drive.google.com/file/d/16bvmhL5XCaW_H3_oFCJ4AwQcGGJ6xBqO/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子徑項線道表17-19_V2](https://drive.google.com/file/d/1HxyM570leynD82iIHTISQ0wN33lLJGRK/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子田項線道表11-16_V1](https://drive.google.com/file/d/178f9PKSc_vCivSPfycciXR0eF8yDoT2s/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）女子田項線道表17-19_V1](https://drive.google.com/file/d/1K0Igau72BMV9Ji4vnVRAe59yJM1zCp6E/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子徑項線道表11-16_V1](https://drive.google.com/file/d/11x-taZqyyfcyQq8Q3ETWosKQ4H8i9XYs/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子徑項線道表17-19_V2](https://drive.google.com/file/d/1NlNNuwhTTfLs62xKqd9HNOlIvDf8c7Bv/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表11-16_V1](https://drive.google.com/file/d/1b32ZPhbA3Yc-uNR5KwE23gwK9Y67Jzq2/view?usp=share_link)
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）男子田項線道表17-19_V1](https://drive.google.com/file/d/1zVBx4ifrt46Jr2kKa1L338HzvLXPvqAH/view?usp=share_link)
-#### [按此瀏覽 - 新星聯賽1004_女子接力線道表_V1](https://drive.google.com/file/d/1Q_bdnpXbppspkYmMwDgL59_6rhbpi90M/view?usp=share_link)
-#### [按此瀏覽 - 新星聯賽1004_男子接力線道表_V1](https://drive.google.com/file/d/1s_EWbpogt8kvhaonRZeuNv8oVdK0X9qZ/view?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表及分場線道](https://drive.google.com/drive/folders/1mRdApEEnsOvf5kdF3I5OGClfymK4YNUh?usp=share_link)
+
 --------------------------------------------------------------------------------------
 
 ### 新星田徑免費試堂(2023年3月)
