@@ -13,14 +13,14 @@ feature_image: "/images/banner1.jpg"
 ### [按此瀏覽 - 0405沙田復活田徑大獎賽2023第一站 - 成績](https://drive.google.com/drive/folders/1l4k1xc9pjHdYXGL07hdXB8ycQplGwRVT?usp=share_link)
 ### [按此瀏覽 - 0405沙田復活田徑大獎賽2023第一站 - 補購證書](https://zfrmz.com/KE22vJkXjl8q5ahuydvq)
 ---------------------------------------------------------------------------------------
-### 「沙田復活節田徑大獎賽2023(Day Two)」（10-04-2023）中學、公開及常青組 參賽名單公佈
+### 「沙田復活節田徑大獎賽2023(Day Two)」（10-04-2023）中學、公開及常青組 
 
 地點：馬鞍山運動場（電子計時）
 
 組別：
 2004-2010（中學ABC組）、1989-2003（公開組）、1988-1938（常青組）
 
-#### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_參賽名單](https://drive.google.com/drive/folders/1sY98vPB8CiuqHvHuxBNI31xmL1OFlPpd?usp=share_link)
+#### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_比賽時間表及分場線道](https://drive.google.com/drive/folders/1sY98vPB8CiuqHvHuxBNI31xmL1OFlPpd?usp=share_link)
 --------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分場線道公佈
 
