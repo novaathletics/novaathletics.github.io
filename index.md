@@ -20,7 +20,9 @@ feature_image: "/images/banner1.jpg"
 組別：
 2004-2010（中學ABC組）、1989-2003（公開組）、1988-1938（常青組）
 
-#### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_比賽時間表及分場線道](https://drive.google.com/drive/folders/1sY98vPB8CiuqHvHuxBNI31xmL1OFlPpd?usp=share_link)
+#### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_成績](https://drive.google.com/drive/folders/1hFKlp-ZzD-qjEyIYAjQ4vXtPi-6uLrn-?usp=share_link)
+#### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_補購證書](https://zfrmz.com/kxCSisOnXoBDS15yIH24)
+
 --------------------------------------------------------------------------------------
 ### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分場線道公佈
 
@@ -30,7 +32,8 @@ feature_image: "/images/banner1.jpg"
 
 年齡：2011-2019
 
-#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）時間表及分場線道](https://drive.google.com/drive/folders/1mRdApEEnsOvf5kdF3I5OGClfymK4YNUh?usp=share_link)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）成績](https://drive.google.com/drive/folders/1d7FXDdFlkrBetIJEzHZCKI4Dp594ZWyI)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）補購證書](https://zfrmz.com/jVMAekCE6Mvx8bHGaFl1)
 
 --------------------------------------------------------------------------------------
 
