@@ -12,6 +12,7 @@ feature_image: "/images/banner1.jpg"
  
 訓練詳情：
 地區：沙田、馬鞍山、屯門、青衣、香港仔、銅鑼灣、巴富街、天水圍、斧山道、深水埗、九龍灣、將軍澳、葵涌
+
 日期：2023年7月22日開始至8月23日
 
 ### [按此報名：我想參加訓練!](https://forms.zohopublic.com/hknovasports852/form/2023/formperma/vP4YTxMm-d-aEsZzpJITD3XdYib-HY7aGup6AF0QqbY )
