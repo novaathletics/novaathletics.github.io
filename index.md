@@ -53,7 +53,7 @@ feature_image: "/images/banner1.jpg"
 #### [按此瀏覽 - 沙田復活田徑大獎賽Day 2_補購證書](https://zfrmz.com/kxCSisOnXoBDS15yIH24)
 
 --------------------------------------------------------------------------------------
-### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）比賽時間表及分場線道公佈
+### 「第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）
 
 比賽日期：10/4/2023（復活節假期）
 
@@ -63,6 +63,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）成績](https://drive.google.com/drive/folders/1d7FXDdFlkrBetIJEzHZCKI4Dp594ZWyI)
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）補購證書](https://zfrmz.com/jVMAekCE6Mvx8bHGaFl1)
+#### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）相片](https://photos.google.com/share/AF1QipPGWCWr3cvZeeoMHgEozbeD_SCQ7fK-zJGVTup6SwGgAPlsT1bzqHeqTHGfGF4UDw?key=c01QSXZXWjQwN0NfV19GaEhQZmpLSlBXMml4Qkt3)
 
 --------------------------------------------------------------------------------------
 
