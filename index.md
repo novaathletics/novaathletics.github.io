@@ -6,6 +6,19 @@ feature_text: |
   ### 新星田徑會
 feature_image: "/images/banner1.jpg"
 ---
+
+### 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）
+
+比賽日期：26/5/2023(佛誕假期)
+
+地點：灣仔運動場（電子計時）
+
+年齡：2011-2019
+
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/26052023/formperma/j0Xi1Gc3kcZ5zx_CBZaJIkqErPpSKVthvuEcb_NEIVo)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）4 x 100 接力賽報名表](https://zfrmz.com/PTIJHaR4VygBdwyX3DCp)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）參賽名單](https://drive.google.com/drive/folders/1kIRy5FwBsnQSfDLKsGM0u8zZOzDCaFLr?usp=share_link)
+--------------------------------------------------------------------------------------
 ### 「新星青少年暑期田徑訓練2023」
 
 訓練於七月中至八月底舉行，課程由總教練葉啟德策劃，訓練內容包括：熱身拉筋、跑之專門技術、起跑及反應跑、爆發力及速度耐力等；訓練專業非遊戲活動，為秋季一系列學界及分齡賽作「準備期」之訓練。除了中、小學之外，亦歡迎幼兒（K1-K3）參加，學習基礎跑步技術及正確跑姿，為未來跑得更遠作準備。
@@ -82,28 +95,6 @@ feature_image: "/images/banner1.jpg"
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）補購證書](https://zfrmz.com/jVMAekCE6Mvx8bHGaFl1)
 #### [按此瀏覽 - 第一屆新星精英田徑錦標賽」(第一站)（10-04-2023）相片](https://photos.google.com/share/AF1QipPGWCWr3cvZeeoMHgEozbeD_SCQ7fK-zJGVTup6SwGgAPlsT1bzqHeqTHGfGF4UDw?key=c01QSXZXWjQwN0NfV19GaEhQZmpLSlBXMml4Qkt3)
 
---------------------------------------------------------------------------------------
-
-### 新星田徑免費試堂(2023年3月)
-
-會現舉辦「免費試堂」活動，讓小朋友嘗試專業的田徑訓練，有興趣可加入本會進行系統訓練。
-
-### [按此報名：我想免費試堂(2023年3月)!](https://forms.zohopublic.com/hknovasports852/form/20233/formperma/TyJGydHV7ISJ2vnA2obmr_tVVkm_rS-G8FZxL4ePQIM)
-
-![](/images/trial_0323_timetable.jpg)
-
-
---------------------------------------------------------------------------------------
-### 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）
-
-比賽日期：26/5/2023(佛誕假期)
-
-地點：灣仔運動場（電子計時）
-
-年齡：2011-2019
-
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/26052023/formperma/j0Xi1Gc3kcZ5zx_CBZaJIkqErPpSKVthvuEcb_NEIVo)
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）4 x 100 接力賽報名表](https://zfrmz.com/PTIJHaR4VygBdwyX3DCp)
 
 --------------------------------------------------------------------------------------
 ### 「新星中長跑訓練課程」
