@@ -17,7 +17,7 @@ feature_image: "/images/banner1.jpg"
 
 #### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）個人項目報名表](https://forms.zohopublic.com/hknovasports852/form/26052023/formperma/j0Xi1Gc3kcZ5zx_CBZaJIkqErPpSKVthvuEcb_NEIVo)
 #### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）4 x 100 接力賽報名表](https://zfrmz.com/PTIJHaR4VygBdwyX3DCp)
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）參賽名單](https://drive.google.com/drive/folders/1kIRy5FwBsnQSfDLKsGM0u8zZOzDCaFLr?usp=share_link)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）參賽線道和時間表](https://drive.google.com/drive/folders/1kIRy5FwBsnQSfDLKsGM0u8zZOzDCaFLr)
 --------------------------------------------------------------------------------------
 ### 「新星青少年暑期田徑訓練2023」
 
