@@ -15,7 +15,7 @@ feature_image: "/images/banner1.jpg"
 
 年齡：2011-2019
 
-#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）參賽線道和時間表](https://drive.google.com/drive/folders/1kIRy5FwBsnQSfDLKsGM0u8zZOzDCaFLr)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）參賽線道和時間表(update)](https://drive.google.com/drive/folders/1kIRy5FwBsnQSfDLKsGM0u8zZOzDCaFLr)
 --------------------------------------------------------------------------------------
 ### 「新星青少年暑期田徑訓練2023」
 
