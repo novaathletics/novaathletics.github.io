@@ -16,6 +16,8 @@ feature_image: "/images/banner1.jpg"
 年齡：2011-2019
 
 #### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）成績](https://drive.google.com/drive/folders/1--wdlDUS7ROe1XPNPwuObB4Wz7s-5tPd?usp=share_link)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）補購證書](https://forms.zohopublic.com/hknovasports852/form/260520231/formperma/dSl64LynPEJJHj-SYM3XQxF8s2FShabGB7Ih3skUeyk)
+#### [按此報名 - 「第一屆新星精英田徑錦標賽」(第二站)（26-05-2023）比賽精采相片](https://drive.google.com/drive/folders/19NVSzr-vKm9NZBhea2k-UspFi6r3VIAI )
 --------------------------------------------------------------------------------------
 ### 「新星青少年暑期田徑訓練2023」
 
