@@ -7,8 +7,14 @@ feature_text: |
 feature_image: "/images/novaac-springtrmnt-129.jpg"
 ---
 
+<style>
+td, th {
+   border: 1px solid black!important;
+}
+</style>
+
 | 活動名稱 	| 日期 	| 地點 	| 鏈接 	| 狀態 	|
-|---	|---	|---	|---	|---	|
+| :---:	| :---:	| :---:	|---	| :---:	|
 | 第一屆新星秋季青少年田徑錦標賽 	| 2023年9月10日 	| 灣仔運動場 	| [報名](https://forms.zohopublic.com/hknovasports852/form/DuplicateofMay26/formperma/sNHjO2CbwtEZdauwYbWe3X0p22e6cw4oAm9BFAfW4TY?fbclid=IwAR0JZtf4s3JdFUjkamidHRMydXIZlAYNdbYTBle-rbVUStYjxhoIBcTRMBw) 	| 現正報名 	|
 | 新星青少年暑期田徑訓練2023 	| 暑期 	| 各區 	| [報名](https://forms.zohopublic.com/hknovasports852/form/2023/formperma/vP4YTxMm-d-aEsZzpJITD3XdYib-HY7aGup6AF0QqbY ) 	| 長期收生 	|
 | 沙田節 - 慶回歸青少年田徑錦標賽 	| 2023年7月16日 	| 馬鞍山運動場 	| [報名](https://forms.zohopublic.com/hknovasports852/form/160720232/formperma/6k1f2hPkc0rPjd1zS5VkRhxfMl7ECRDA1VNmx0WlIxM) 	| 現正報名 	|
