@@ -127,12 +127,6 @@ navigation_header:
   url: /introduction/
 - title: 教練介紹
   url: /coaches/
-- title: 新星運動員介紹
-  url: /athletes/
-- title: 訓練課程
-  url: /training/
-- title: 本會比賽
-  url: /races/
 # - title: 幼兒田徑聯賽
 #  url: /newraces/
 - title: Sportsoho專欄
@@ -141,7 +135,7 @@ navigation_header:
   url: /contact/
 
 navigation_footer:
-- title: Created by Nova Athletics
+- title: 新星田徑會 版權所有 © 2023
   url: https://novaathletics.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
@@ -151,6 +145,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   # link: https://darn.es
   # RSS: /feed.xml
   Facebook: https://facebook.com/新星田徑會Nova-Athletics-Club-105744665177266
+  Instagram: https://www.instagram.com/nova.athclub/
   YouTube: https://www.youtube.com/channel/UCnUl5dNjlXMyJLL-YrY9vFw
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
