@@ -118,8 +118,6 @@ td, th {
 
 比賽地點：香港基督教青年會京士柏百周年紀念中心（佐敦）
 
-## [按此報名：0701第二屆新星幼兒室内田徑錦標賽 - 報名 (比賽已經截止報名)]
-### [按此查看參賽名單](https://drive.google.com/drive/folders/1PjjnyLWqrpnrGdIUzfCY1Qkm5wkHBgRB?usp=sharing)
 ### [按此查看時間及線道表](https://drive.google.com/drive/folders/1uksYlqK1ivkGsfcjheNUteRSQazWmt4t?usp=sharing)
 ---------------------------------------------------------------------------------------
 
