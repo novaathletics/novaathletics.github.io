@@ -18,7 +18,7 @@ td, th {
 | 第一屆新星秋季青少年田徑錦標賽 	| 9月10日 	| 灣仔運動場 	| [報名](https://forms.zohopublic.com/hknovasports852/form/DuplicateofMay26/formperma/sNHjO2CbwtEZdauwYbWe3X0p22e6cw4oAm9BFAfW4TY?fbclid=IwAR0JZtf4s3JdFUjkamidHRMydXIZlAYNdbYTBle-rbVUStYjxhoIBcTRMBw) 	| 現正報名 	|
 | 新星青少年暑期田徑訓練2023 	| 暑期 	| 各區 	| [報名](https://forms.zohopublic.com/hknovasports852/form/2023/formperma/vP4YTxMm-d-aEsZzpJITD3XdYib-HY7aGup6AF0QqbY ) 	| 長期收生 	|
 | 沙田節 - 慶回歸青少年田徑錦標賽 	| 7月16日 	| 馬鞍山運動場 	| [報名](https://forms.zohopublic.com/hknovasports852/form/160720232/formperma/6k1f2hPkc0rPjd1zS5VkRhxfMl7ECRDA1VNmx0WlIxM) 	| 現正報名 	|
-| 第二屆新星幼兒室内田徑錦標賽 	| 7月1日 	| 香港基督教青年會京士柏百周年紀念中心 	| [成績公佈](https://drive.google.com/drive/folders/10SAGcLqKpVaxd1Yn7Kr-0iOKukl48hgo?usp=drive_link) <br> [補購證書](https://forms.zohopublic.com/hknovasports852/form/010720231/formperma/mmX4pVnUxTOGxXtJENNaMknWbJc_OSTf8_9fxNGdIwE) <br> [比賽相片] (https://drive.google.com/drive/folders/1DG3gx11uV_7peAV8PvBpXxISnsNE7vaD)	| 已結束  	|
+| 第二屆新星幼兒室内田徑錦標賽 	| 7月1日 	| 香港基督教青年會京士柏百周年紀念中心 	| [成績公佈](https://drive.google.com/drive/folders/10SAGcLqKpVaxd1Yn7Kr-0iOKukl48hgo?usp=drive_link) <br> [補購證書](https://forms.zohopublic.com/hknovasports852/form/010720231/formperma/mmX4pVnUxTOGxXtJENNaMknWbJc_OSTf8_9fxNGdIwE) <br> [比賽相片](https://drive.google.com/drive/folders/1DG3gx11uV_7peAV8PvBpXxISnsNE7vaD)	| 已結束  	|
 | 新星田徑會新學年會員大招募 	| 恆常訓練班 	| 各區 	| [報名](https://docs.google.com/forms/d/e/1FAIpQLSc0tj2-QdYfK6X0CYiP3YE_-hFovM_tXoF4Q6bDWyMzEmNgsg/viewform) 	| 長期收生 	|
 
 ------
